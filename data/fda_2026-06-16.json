@@ -1,0 +1,11 @@
+{
+  "date": "2026-06-16",
+  "scrape_time": "2026-06-16T05:52:13.758269",
+  "total": 0,
+  "results": [],
+  "errors": [
+    "尝试 1 失败: Page.goto: Timeout 120000ms exceeded.\nCall log:\n  - navigating to \"https://www.accessdata.fda.gov/scripts/cder/daf/\", waiting until \"networkidle\"\n",
+    "尝试 2 失败: Page.goto: Timeout 120000ms exceeded.\nCall log:\n  - navigating to \"https://www.accessdata.fda.gov/scripts/cder/daf/\", waiting until \"networkidle\"\n",
+    "尝试 3 失败: Page.goto: Timeout 120000ms exceeded.\nCall log:\n  - navigating to \"https://www.accessdata.fda.gov/scripts/cder/daf/\", waiting until \"networkidle\"\n"
+  ]
+}
