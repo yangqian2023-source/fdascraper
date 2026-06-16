@@ -141,16 +141,16 @@ def main():
     print(f"开始时间: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
     print("=" * 60)
     
-    # 测试查询 2025 年 6 月的数据
-    test_year = 2025
-    test_month = 6
+    # 获取当前年月
+    current_year = datetime.now().year
+    current_month = datetime.now().month
     
-    print(f"\n查询 {test_year} 年 {test_month} 月的药物审批数据")
+    print(f"\n查询 {current_year} 年 {current_month} 月的药物审批数据")
     
-    results = get_month_approvals(test_year, test_month)
+    results = get_month_approvals(current_year, current_month)
     
     if results:
-        json_file, tsv_file = save_results(results, test_year, test_month)
+        json_file, tsv_file = save_results(results, current_year, current_month)
         print("\n" + "=" * 60)
         print(f"采集成功: {len(results)} 条数据")
         print(f"JSON 文件: {json_file}")
