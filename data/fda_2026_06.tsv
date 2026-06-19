@@ -1,44 +1,50 @@
 药品名称	通用名	申请号	提交类型	状态	审批日期	链接
-CEPHALEXIN	CEPHALEXIN	ANDA213568	ORIG	AP	2026-06-09	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA213568
+OXCARBAZEPINE	OXCARBAZEPINE	ANDA078005	SUPPL	AP	2026-06-08	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA078005
+OXCARBAZEPINE	OXCARBAZEPINE	ANDA078005	SUPPL	AP	2026-06-08	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA078005
+FLUORESCEIN	FLUORESCEIN	ANDA218651	ORIG	AP	2026-06-01	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA218651
+TOFACITINIB	TOFACITINIB	ANDA217298	ORIG	AP	2026-06-03	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA217298
+Unknown	Unknown	ANDA219165	ORIG	AP	2026-06-10	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA219165
+TOFACITINIB	TOFACITINIB	ANDA217299	ORIG	AP	2026-06-03	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA217299
+CLINDAMYCIN PHOSPHATE	CLINDAMYCIN PHOSPHATE	ANDA064050	SUPPL	AP	2026-06-10	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA064050
+Unknown	Unknown	ANDA213511	ORIG	AP	2026-06-02	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA213511
+REXTOVY	NALOXONE HYDROCHLORIDE	NDA208969	SUPPL	AP	2026-06-16	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA208969
 YERVOY	IPILIMUMAB	BLA125377	SUPPL	AP	2026-06-12	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=BLA125377
 AFINITOR DISPERZ	EVEROLIMUS	NDA203985	SUPPL	AP	2026-06-01	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA203985
 ATOVAQUONE	ATOVAQUONE	ANDA210692	SUPPL	AP	2026-06-08	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA210692
-PHYTONADIONE	PHYTONADIONE	ANDA217734	ORIG	AP	2026-06-01	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA217734
-SAXENDA	LIRAGLUTIDE	NDA206321	SUPPL	AP	2026-06-02	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA206321
 ATOVAQUONE	ATOVAQUONE	ANDA209685	SUPPL	AP	2026-06-08	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA209685
-Unknown	Unknown	ANDA204754	SUPPL	AP	2026-06-08	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA204754
-Unknown	Unknown	ANDA204754	SUPPL	AP	2026-06-08	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA204754
+SAXENDA	LIRAGLUTIDE	NDA206321	SUPPL	AP	2026-06-02	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA206321
+PHYTONADIONE	PHYTONADIONE	ANDA217734	ORIG	AP	2026-06-01	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA217734
 Unknown	Unknown	ANDA077083	SUPPL	AP	2026-06-02	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA077083
 Unknown	Unknown	ANDA077083	SUPPL	AP	2026-06-02	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA077083
-TRUQAP	CAPIVASERTIB	NDA218197	SUPPL	AP	2026-06-12	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA218197
-METHYLPREDNISOLONE	METHYLPREDNISOLONE	ANDA206751	SUPPL	AP	2026-06-01	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA206751
+Unknown	Unknown	ANDA204754	SUPPL	AP	2026-06-08	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA204754
+Unknown	Unknown	ANDA204754	SUPPL	AP	2026-06-08	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA204754
 AJOVY	FREMANEZUMAB-VFRM	BLA761089	SUPPL	AP	2026-06-05	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=BLA761089
+METHYLPREDNISOLONE	METHYLPREDNISOLONE	ANDA206751	SUPPL	AP	2026-06-01	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA206751
+TRUQAP	CAPIVASERTIB	NDA218197	SUPPL	AP	2026-06-12	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA218197
 EPIDIOLEX	CANNABIDIOL	NDA210365	SUPPL	AP	2026-06-05	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA210365
 EPIDIOLEX	CANNABIDIOL	NDA210365	SUPPL	AP	2026-06-05	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA210365
 EPIDIOLEX	CANNABIDIOL	NDA210365	SUPPL	AP	2026-06-05	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA210365
 BRENZAVVY	BEXAGLIFLOZIN	NDA214373	SUPPL	AP	2026-06-03	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA214373
 DIVALPROEX SODIUM	DIVALPROEX SODIUM	ANDA217358	SUPPL	AP	2026-06-11	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA217358
+Unknown	Unknown	BLA761105	SUPPL	AP	2026-06-12	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=BLA761105
 KEYTRUDA	PEMBROLIZUMAB	BLA125514	SUPPL	AP	2026-06-12	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=BLA125514
-SKYRIZI	RISANKIZUMAB-RZAA	BLA761105	SUPPL	AP	2026-06-12	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=BLA761105
-ULTOMIRIS	RAVULIZUMAB	BLA761108	SUPPL	AP	2026-06-01	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=BLA761108
 Unknown	Unknown	NDA022434	SUPPL	AP	2026-06-10	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA022434
-OXCARBAZEPINE	OXCARBAZEPINE	ANDA078005	SUPPL	AP	2026-06-08	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA078005
-OXCARBAZEPINE	OXCARBAZEPINE	ANDA078005	SUPPL	AP	2026-06-08	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA078005
-BRIMONIDINE TARTRATE AND TIMOLOL MALEATE	BRIMONIDINE TARTRATE AND TIMOLOL MALEATE	ANDA215230	SUPPL	AP	2026-06-11	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA215230
-VASOPRESSIN	VASOPRESSIN	ANDA213988	SUPPL	AP	2026-06-03	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA213988
-VASOPRESSIN	VASOPRESSIN	ANDA213988	SUPPL	AP	2026-06-03	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA213988
-VYEPTI	EPTINEZUMAB-JJMR	BLA761119	SUPPL	AP	2026-06-05	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=BLA761119
-Unknown	Unknown	ANDA219287	ORIG	AP	2026-06-11	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA219287
+ULTOMIRIS	RAVULIZUMAB	BLA761108	SUPPL	AP	2026-06-01	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=BLA761108
+CEPHALEXIN	CEPHALEXIN	ANDA213568	ORIG	AP	2026-06-09	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA213568
+RAMELTEON	RAMELTEON	ANDA215243	SUPPL	AP	2026-06-04	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA215243
+INVOKANA	CANAGLIFLOZIN	NDA204042	SUPPL	AP	2026-06-03	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA204042
+Unknown	Unknown	NDA201743	SUPPL	AP	2026-06-03	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA201743
 TOFACITINIB	TOFACITINIB	ANDA209738	ORIG	AP	2026-06-03	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA209738
+Unknown	Unknown	ANDA219287	ORIG	AP	2026-06-11	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA219287
 Unknown	Unknown	ANDA219288	ORIG	AP	2026-06-01	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA219288
-DABIGATRAN ETEXILATE	DABIGATRAN ETEXILATE	ANDA207961	SUPPL	AP	2026-06-05	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA207961
-DIPYRIDAMOLE	DIPYRIDAMOLE	ANDA074521	SUPPL	AP	2026-06-04	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA074521
 RISEDRONATE SODIUM	RISEDRONATE SODIUM	ANDA077132	SUPPL	AP	2026-06-08	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA077132
 CLONAZEPAM	CLONAZEPAM	ANDA075468	SUPPL	AP	2026-06-12	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA075468
+DABIGATRAN ETEXILATE	DABIGATRAN ETEXILATE	ANDA207961	SUPPL	AP	2026-06-05	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA207961
+DIPYRIDAMOLE	DIPYRIDAMOLE	ANDA074521	SUPPL	AP	2026-06-04	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA074521
 ENSPRYNG	SATRALIZUMAB	BLA761149	SUPPL	AP	2026-06-10	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=BLA761149
 DIAZEPAM	DIAZEPAM	ANDA070311	SUPPL	AP	2026-06-01	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA070311
-FOSAPREPITANT	FOSAPREPITANT DIMEGLUMINE	ANDA212143	SUPPL	AP	2026-06-10	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA212143
 Unknown	Unknown	ANDA077446	SUPPL	AP	2026-06-08	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA077446
+FOSAPREPITANT	FOSAPREPITANT DIMEGLUMINE	ANDA212143	SUPPL	AP	2026-06-10	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA212143
 ESTRADIOL	ESTRADIOL	ANDA075182	SUPPL	AP	2026-06-08	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA075182
 ESTRADIOL	ESTRADIOL	ANDA075182	SUPPL	AP	2026-06-08	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA075182
 ESTRADIOL	ESTRADIOL	ANDA075182	SUPPL	AP	2026-06-08	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA075182
@@ -49,17 +55,9 @@ CAPECITABINE	CAPECITABINE	ANDA202593	SUPPL	AP	2026-06-09	https://www.accessdata.
 CAPECITABINE	CAPECITABINE	ANDA202593	SUPPL	AP	2026-06-09	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA202593
 CAPECITABINE	CAPECITABINE	ANDA202593	SUPPL	AP	2026-06-09	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA202593
 CAPECITABINE	CAPECITABINE	ANDA202593	SUPPL	AP	2026-06-09	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA202593
-VORANIGO	VORASIDENIB	NDA218784	SUPPL	AP	2026-06-10	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA218784
+Unknown	Unknown	NDA218784	SUPPL	AP	2026-06-10	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA218784
 DEXTROSE	DEXTROSE MONOHYDRATE	NDA016673	SUPPL	AP	2026-06-11	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA016673
 Unknown	Unknown	ANDA076584	SUPPL	AP	2026-06-08	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA076584
 TOFACITINIB	TOFACITINIB	ANDA219370	ORIG	AP	2026-06-09	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA219370
-Unknown	Unknown	ANDA214470	ORIG	AP	2026-06-04	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA214470
 ABIRATERONE ACETATE	ABIRATERONE ACETATE	ANDA208371	SUPPL	AP	2026-06-05	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA208371
-TOFACITINIB	TOFACITINIB	ANDA220137	ORIG	AP	2026-06-03	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA220137
-Unknown	Unknown	ANDA219395	ORIG	AP	2026-06-03	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA219395
-OXCARBAZEPINE	OXCARBAZEPINE	ANDA215332	SUPPL	AP	2026-06-02	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA215332
-Unknown	Unknown	ANDA218821	ORIG	AP	2026-06-09	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA218821
-Unknown	Unknown	NDA209091	SUPPL	AP	2026-06-03	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA209091
-TZIELD	TEPLIZUMAB-MZWV	BLA761183	SUPPL	AP	2026-06-12	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=BLA761183
-TZIELD	TEPLIZUMAB-MZWV	BLA761183	SUPPL	AP	2026-06-12	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=BLA761183
-ACYCLOVIR	ACYCLOVIR	ANDA075211	SUPPL	AP	2026-06-05	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA075211
+Unknown	Unknown	ANDA214470	ORIG	AP	2026-06-04	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA214470
