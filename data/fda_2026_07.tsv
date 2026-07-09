@@ -1,13 +1,25 @@
 药品名称	通用名	申请号	提交类型	状态	审批日期	链接
+Unknown	Unknown	ANDA217934	ORIG	AP	2026-07-01	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA217934
+Unknown	Unknown	ANDA212229	ORIG	AP	2026-07-01	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA212229
+Unknown	Unknown	ANDA217896	ORIG	AP	2026-07-02	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA217896
+Unknown	Unknown	NDA019796	SUPPL	AP	2026-07-06	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA019796
+ACYCLOVIR	ACYCLOVIR	ANDA212252	SUPPL	AP	2026-07-02	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA212252
+AZELASTINE HYDROCHLORIDE AND FLUTICASONE PROPIONATE	AZELASTINE HYDROCHLORIDE AND FLUTICASONE PROPIONATE	ANDA207712	SUPPL	AP	2026-07-01	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA207712
+ALFUZOSIN HYDROCHLORIDE	ALFUZOSIN HYDROCHLORIDE	ANDA079060	SUPPL	AP	2026-07-01	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA079060
+Unknown	Unknown	NDA019625	SUPPL	AP	2026-07-06	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA019625
+ZYRTEC ALLERGY	CETIRIZINE HYDROCHLORIDE	NDA022578	SUPPL	AP	2026-07-02	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA022578
 ACYCLOVIR	ACYCLOVIR	ANDA216331	SUPPL	AP	2026-07-01	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA216331
 ZYRTEC-D	CETIRIZINE HYDROCHLORIDE AND PSEUDOEPHEDRINE HYDROCHLORIDE	NDA021150	SUPPL	AP	2026-07-02	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA021150
 Unknown	Unknown	ANDA076996	SUPPL	AP	2026-07-01	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA076996
 KISQALI FEMARA CO-PACK	LETROZOLE AND RIBOCICLIB	NDA209935	SUPPL	AP	2026-07-01	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA209935
 FINASTERIDE	FINASTERIDE	ANDA076437	SUPPL	AP	2026-07-01	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA076437
+ACETAZOLAMIDE	ACETAZOLAMIDE	ANDA040089	SUPPL	AP	2026-07-01	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA040089
 FINASTERIDE	FINASTERIDE	ANDA090121	SUPPL	AP	2026-07-02	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA090121
 ACYCLOVIR	ACYCLOVIR	ANDA212718	SUPPL	AP	2026-07-01	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA212718
 TRANEXAMIC ACID	TRANEXAMIC ACID	ANDA206713	SUPPL	AP	2026-07-02	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA206713
 Unknown	Unknown	ANDA220874	ORIG	AP	2026-07-01	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA220874
+Unknown	Unknown	ANDA212972	ORIG	AP	2026-07-01	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA212972
+CAPECITABINE	CAPECITABINE	ANDA210203	SUPPL	AP	2026-07-01	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA210203
 ACYCLOVIR	ACYCLOVIR	ANDA074738	SUPPL	AP	2026-07-01	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA074738
 FINASTERIDE	FINASTERIDE	ANDA076511	SUPPL	AP	2026-07-02	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA076511
 CAPECITABINE	CAPECITABINE	ANDA211724	SUPPL	AP	2026-07-01	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA211724
@@ -17,17 +29,5 @@ Unknown	Unknown	NDA019543	SUPPL	AP	2026-07-06	https://www.accessdata.fda.gov/scr
 LEVOTHYROXINE SODIUM	LEVOTHYROXINE SODIUM ANHYDROUS	NDA202231	SUPPL	AP	2026-07-06	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA202231
 FINASTERIDE	FINASTERIDE	ANDA078341	SUPPL	AP	2026-07-01	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA078341
 Unknown	Unknown	ANDA219952	ORIG	AP	2026-07-01	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA219952
-ACETAZOLAMIDE	ACETAZOLAMIDE	ANDA040089	SUPPL	AP	2026-07-01	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA040089
 FETROJA	CEFIDEROCOL SULFATE TOSYLATE	NDA209445	SUPPL	AP	2026-07-01	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA209445
 KISQALI	RIBOCICLIB	NDA209092	SUPPL	AP	2026-07-01	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA209092
-Unknown	Unknown	ANDA212229	ORIG	AP	2026-07-01	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA212229
-Unknown	Unknown	ANDA217896	ORIG	AP	2026-07-02	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA217896
-Unknown	Unknown	NDA019796	SUPPL	AP	2026-07-06	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA019796
-ACYCLOVIR	ACYCLOVIR	ANDA212252	SUPPL	AP	2026-07-02	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA212252
-Unknown	Unknown	ANDA217934	ORIG	AP	2026-07-01	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA217934
-Unknown	Unknown	ANDA212972	ORIG	AP	2026-07-01	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA212972
-CAPECITABINE	CAPECITABINE	ANDA210203	SUPPL	AP	2026-07-01	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA210203
-ALFUZOSIN HYDROCHLORIDE	ALFUZOSIN HYDROCHLORIDE	ANDA079060	SUPPL	AP	2026-07-01	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA079060
-Unknown	Unknown	NDA019625	SUPPL	AP	2026-07-06	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA019625
-AZELASTINE HYDROCHLORIDE AND FLUTICASONE PROPIONATE	AZELASTINE HYDROCHLORIDE AND FLUTICASONE PROPIONATE	ANDA207712	SUPPL	AP	2026-07-01	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA207712
-ZYRTEC ALLERGY	CETIRIZINE HYDROCHLORIDE	NDA022578	SUPPL	AP	2026-07-02	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA022578
