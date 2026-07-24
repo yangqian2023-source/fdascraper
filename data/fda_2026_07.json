@@ -1,63 +1,9 @@
 {
   "year": 2026,
   "month": 7,
-  "scrape_time": "2026-07-23T23:00:41.686676",
-  "total": 57,
+  "scrape_time": "2026-07-24T23:04:50.767714",
+  "total": 53,
   "results": [
-    {
-      "drug_name": "Unknown",
-      "generic_name": "Unknown",
-      "application_number": "NDA050725",
-      "submission_type": "SUPPL",
-      "submission_status": "AP",
-      "approval_date": "2026-07-17",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA050725"
-    },
-    {
-      "drug_name": "Unknown",
-      "generic_name": "Unknown",
-      "application_number": "ANDA205049",
-      "submission_type": "SUPPL",
-      "submission_status": "AP",
-      "approval_date": "2026-07-13",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA205049"
-    },
-    {
-      "drug_name": "Unknown",
-      "generic_name": "Unknown",
-      "application_number": "ANDA205049",
-      "submission_type": "SUPPL",
-      "submission_status": "AP",
-      "approval_date": "2026-07-13",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA205049"
-    },
-    {
-      "drug_name": "Unknown",
-      "generic_name": "Unknown",
-      "application_number": "NDA050670",
-      "submission_type": "SUPPL",
-      "submission_status": "AP",
-      "approval_date": "2026-07-13",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA050670"
-    },
-    {
-      "drug_name": "AZATHIOPRINE",
-      "generic_name": "AZATHIOPRINE",
-      "application_number": "ANDA075568",
-      "submission_type": "SUPPL",
-      "submission_status": "AP",
-      "approval_date": "2026-07-16",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA075568"
-    },
-    {
-      "drug_name": "ZYRTEC-D",
-      "generic_name": "CETIRIZINE HYDROCHLORIDE AND PSEUDOEPHEDRINE HYDROCHLORIDE",
-      "application_number": "NDA021150",
-      "submission_type": "SUPPL",
-      "submission_status": "AP",
-      "approval_date": "2026-07-02",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA021150"
-    },
     {
       "drug_name": "Unknown",
       "generic_name": "Unknown",
@@ -66,24 +12,6 @@
       "submission_status": "AP",
       "approval_date": "2026-07-16",
       "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA076152"
-    },
-    {
-      "drug_name": "FENOFIBRIC ACID",
-      "generic_name": "FENOFIBRIC ACID",
-      "application_number": "ANDA213450",
-      "submission_type": "SUPPL",
-      "submission_status": "AP",
-      "approval_date": "2026-07-13",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA213450"
-    },
-    {
-      "drug_name": "GABAPENTIN",
-      "generic_name": "GABAPENTIN",
-      "application_number": "ANDA203934",
-      "submission_type": "SUPPL",
-      "submission_status": "AP",
-      "approval_date": "2026-07-17",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA203934"
     },
     {
       "drug_name": "ELINEST",
@@ -95,76 +23,274 @@
       "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA091105"
     },
     {
+      "drug_name": "ZYRTEC-D",
+      "generic_name": "CETIRIZINE HYDROCHLORIDE AND PSEUDOEPHEDRINE HYDROCHLORIDE",
+      "application_number": "NDA021150",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-07-02",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA021150"
+    },
+    {
+      "drug_name": "GABAPENTIN",
+      "generic_name": "GABAPENTIN",
+      "application_number": "ANDA203934",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-07-17",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA203934"
+    },
+    {
+      "drug_name": "HEPARIN SODIUM",
+      "generic_name": "HEPARIN SODIUM",
+      "application_number": "ANDA089522",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-07-09",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA089522"
+    },
+    {
+      "drug_name": "NEUPOGEN",
+      "generic_name": "FILGRASTIM",
+      "application_number": "BLA103353",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-07-16",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=BLA103353"
+    },
+    {
       "drug_name": "Unknown",
       "generic_name": "Unknown",
-      "application_number": "ANDA218552",
+      "application_number": "ANDA076996",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-07-01",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA076996"
+    },
+    {
+      "drug_name": "GABAPENTIN",
+      "generic_name": "GABAPENTIN",
+      "application_number": "ANDA217995",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-07-22",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA217995"
+    },
+    {
+      "drug_name": "ACETAZOLAMIDE",
+      "generic_name": "ACETAZOLAMIDE",
+      "application_number": "ANDA040904",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-07-14",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA040904"
+    },
+    {
+      "drug_name": "NINTEDANIB",
+      "generic_name": "NINTEDANIB",
+      "application_number": "ANDA218472",
+      "submission_type": "ORIG",
+      "submission_status": "AP",
+      "approval_date": "2026-07-09",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA218472"
+    },
+    {
+      "drug_name": "FINASTERIDE",
+      "generic_name": "FINASTERIDE",
+      "application_number": "ANDA076437",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-07-01",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA076437"
+    },
+    {
+      "drug_name": "KISQALI FEMARA CO-PACK",
+      "generic_name": "LETROZOLE AND RIBOCICLIB",
+      "application_number": "NDA209935",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-07-01",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA209935"
+    },
+    {
+      "drug_name": "INREBIC",
+      "generic_name": "FEDRATINIB HYDROCHLORIDE",
+      "application_number": "NDA212327",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-07-20",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA212327"
+    },
+    {
+      "drug_name": "EPHEDRINE SULFATE",
+      "generic_name": "EPHEDRINE SULFATE",
+      "application_number": "ANDA216740",
+      "submission_type": "ORIG",
+      "submission_status": "AP",
+      "approval_date": "2026-07-08",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA216740"
+    },
+    {
+      "drug_name": "ACYCLOVIR",
+      "generic_name": "ACYCLOVIR",
+      "application_number": "ANDA216331",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-07-01",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA216331"
+    },
+    {
+      "drug_name": "ZYRTEC ALLERGY",
+      "generic_name": "CETIRIZINE HYDROCHLORIDE",
+      "application_number": "NDA022578",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-07-02",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA022578"
+    },
+    {
+      "drug_name": "Unknown",
+      "generic_name": "Unknown",
+      "application_number": "ANDA209938",
+      "submission_type": "ORIG",
+      "submission_status": "AP",
+      "approval_date": "2026-07-13",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA209938"
+    },
+    {
+      "drug_name": "TEGRETOL",
+      "generic_name": "CARBAMAZEPINE",
+      "application_number": "NDA018927",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-07-15",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA018927"
+    },
+    {
+      "drug_name": "OXCARBAZEPINE",
+      "generic_name": "OXCARBAZEPINE",
+      "application_number": "ANDA216749",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-07-08",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA216749"
+    },
+    {
+      "drug_name": "JAKAFI XR",
+      "generic_name": "RUXOLITINIB",
+      "application_number": "NDA217180",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-07-20",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA217180"
+    },
+    {
+      "drug_name": "Unknown",
+      "generic_name": "Unknown",
+      "application_number": "NDA020711",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-07-13",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA020711"
+    },
+    {
+      "drug_name": "Unknown",
+      "generic_name": "Unknown",
+      "application_number": "ANDA218495",
+      "submission_type": "ORIG",
+      "submission_status": "AP",
+      "approval_date": "2026-07-21",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA218495"
+    },
+    {
+      "drug_name": "Unknown",
+      "generic_name": "Unknown",
+      "application_number": "ANDA076450",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-07-14",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA076450"
+    },
+    {
+      "drug_name": "Unknown",
+      "generic_name": "Unknown",
+      "application_number": "ANDA076450",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-07-14",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA076450"
+    },
+    {
+      "drug_name": "FENOFIBRIC ACID",
+      "generic_name": "FENOFIBRIC ACID",
+      "application_number": "ANDA207796",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-07-13",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA207796"
+    },
+    {
+      "drug_name": "Unknown",
+      "generic_name": "Unknown",
+      "application_number": "ANDA205049",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-07-13",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA205049"
+    },
+    {
+      "drug_name": "Unknown",
+      "generic_name": "Unknown",
+      "application_number": "ANDA205049",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-07-13",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA205049"
+    },
+    {
+      "drug_name": "Unknown",
+      "generic_name": "Unknown",
+      "application_number": "NDA218528",
       "submission_type": "ORIG",
       "submission_status": "TA",
-      "approval_date": "2026-07-10",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA218552"
+      "approval_date": "2026-07-20",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA218528"
     },
     {
-      "drug_name": "CLINDAMYCIN",
-      "generic_name": "CLINDAMYCIN PHOSPHATE",
-      "application_number": "ANDA090108",
+      "drug_name": "AZATHIOPRINE",
+      "generic_name": "AZATHIOPRINE",
+      "application_number": "ANDA075568",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-07-16",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA075568"
+    },
+    {
+      "drug_name": "FENOFIBRIC ACID",
+      "generic_name": "FENOFIBRIC ACID",
+      "application_number": "ANDA213450",
       "submission_type": "SUPPL",
       "submission_status": "AP",
       "approval_date": "2026-07-13",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA090108"
-    },
-    {
-      "drug_name": "CLINDAMYCIN",
-      "generic_name": "CLINDAMYCIN PHOSPHATE",
-      "application_number": "ANDA090108",
-      "submission_type": "SUPPL",
-      "submission_status": "AP",
-      "approval_date": "2026-07-13",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA090108"
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA213450"
     },
     {
       "drug_name": "Unknown",
       "generic_name": "Unknown",
-      "application_number": "ANDA090109",
+      "application_number": "NDA050670",
       "submission_type": "SUPPL",
       "submission_status": "AP",
       "approval_date": "2026-07-13",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA090109"
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA050670"
     },
     {
       "drug_name": "Unknown",
       "generic_name": "Unknown",
-      "application_number": "ANDA090109",
-      "submission_type": "SUPPL",
+      "application_number": "ANDA220447",
+      "submission_type": "ORIG",
       "submission_status": "AP",
-      "approval_date": "2026-07-13",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA090109"
-    },
-    {
-      "drug_name": "LISDEXAMFETAMINE DIMESYLATE",
-      "generic_name": "LISDEXAMFETAMINE DIMESYLATE",
-      "application_number": "ANDA202827",
-      "submission_type": "SUPPL",
-      "submission_status": "AP",
-      "approval_date": "2026-07-16",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA202827"
-    },
-    {
-      "drug_name": "LISDEXAMFETAMINE DIMESYLATE",
-      "generic_name": "LISDEXAMFETAMINE DIMESYLATE",
-      "application_number": "ANDA202827",
-      "submission_type": "SUPPL",
-      "submission_status": "AP",
-      "approval_date": "2026-07-16",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA202827"
-    },
-    {
-      "drug_name": "LISDEXAMFETAMINE DIMESYLATE",
-      "generic_name": "LISDEXAMFETAMINE DIMESYLATE",
-      "application_number": "ANDA202827",
-      "submission_type": "SUPPL",
-      "submission_status": "AP",
-      "approval_date": "2026-07-16",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA202827"
+      "approval_date": "2026-07-21",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA220447"
     },
     {
       "drug_name": "Unknown",
@@ -174,6 +300,24 @@
       "submission_status": "AP",
       "approval_date": "2026-07-17",
       "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA079145"
+    },
+    {
+      "drug_name": "Unknown",
+      "generic_name": "Unknown",
+      "application_number": "ANDA218552",
+      "submission_type": "ORIG",
+      "submission_status": "TA",
+      "approval_date": "2026-07-10",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA218552"
+    },
+    {
+      "drug_name": "ACYCLOVIR",
+      "generic_name": "ACYCLOVIR",
+      "application_number": "ANDA212718",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-07-01",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA212718"
     },
     {
       "drug_name": "FINASTERIDE",
@@ -194,15 +338,6 @@
       "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA207449"
     },
     {
-      "drug_name": "ACYCLOVIR",
-      "generic_name": "ACYCLOVIR",
-      "application_number": "ANDA212718",
-      "submission_type": "SUPPL",
-      "submission_status": "AP",
-      "approval_date": "2026-07-01",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA212718"
-    },
-    {
       "drug_name": "USTEKINUMAB",
       "generic_name": "USTEKINUMAB",
       "application_number": "BLA125261",
@@ -210,6 +345,15 @@
       "submission_status": "AP",
       "approval_date": "2026-07-15",
       "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=BLA125261"
+    },
+    {
+      "drug_name": "Unknown",
+      "generic_name": "Unknown",
+      "application_number": "ANDA211687",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-07-17",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA211687"
     },
     {
       "drug_name": "METFORMIN HYDROCHLORIDE",
@@ -248,33 +392,6 @@
       "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA218579"
     },
     {
-      "drug_name": "ZITHROMAX",
-      "generic_name": "AZITHROMYCIN DIHYDRATE",
-      "application_number": "NDA050710",
-      "submission_type": "SUPPL",
-      "submission_status": "AP",
-      "approval_date": "2026-07-13",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA050710"
-    },
-    {
-      "drug_name": "Unknown",
-      "generic_name": "Unknown",
-      "application_number": "ANDA211687",
-      "submission_type": "SUPPL",
-      "submission_status": "AP",
-      "approval_date": "2026-07-17",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA211687"
-    },
-    {
-      "drug_name": "Unknown",
-      "generic_name": "Unknown",
-      "application_number": "ANDA219089",
-      "submission_type": "ORIG",
-      "submission_status": "AP",
-      "approval_date": "2026-07-06",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA219089"
-    },
-    {
       "drug_name": "Unknown",
       "generic_name": "Unknown",
       "application_number": "ANDA219670",
@@ -284,24 +401,6 @@
       "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA219670"
     },
     {
-      "drug_name": "LAMOTRIGINE",
-      "generic_name": "LAMOTRIGINE",
-      "application_number": "ANDA219677",
-      "submission_type": "SUPPL",
-      "submission_status": "AP",
-      "approval_date": "2026-07-13",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA219677"
-    },
-    {
-      "drug_name": "ZITHROMAX",
-      "generic_name": "AZITHROMYCIN DIHYDRATE",
-      "application_number": "NDA050711",
-      "submission_type": "SUPPL",
-      "submission_status": "AP",
-      "approval_date": "2026-07-13",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA050711"
-    },
-    {
       "drug_name": "Unknown",
       "generic_name": "Unknown",
       "application_number": "ANDA213892",
@@ -309,6 +408,15 @@
       "submission_status": "AP",
       "approval_date": "2026-07-07",
       "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA213892"
+    },
+    {
+      "drug_name": "REVLIMID",
+      "generic_name": "LENALIDOMIDE",
+      "application_number": "NDA021880",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-07-22",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA021880"
     },
     {
       "drug_name": "Unknown",
@@ -322,29 +430,20 @@
     {
       "drug_name": "Unknown",
       "generic_name": "Unknown",
-      "application_number": "ANDA076223",
-      "submission_type": "SUPPL",
+      "application_number": "ANDA219089",
+      "submission_type": "ORIG",
       "submission_status": "AP",
-      "approval_date": "2026-07-10",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA076223"
+      "approval_date": "2026-07-06",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA219089"
     },
     {
-      "drug_name": "AMOXICILLIN AND CLAVULANATE POTASSIUM",
-      "generic_name": "AMOXICILLIN AND CLAVULANATE POTASSIUM",
-      "application_number": "NDA050720",
+      "drug_name": "LAMOTRIGINE",
+      "generic_name": "LAMOTRIGINE",
+      "application_number": "ANDA219677",
       "submission_type": "SUPPL",
       "submission_status": "AP",
-      "approval_date": "2026-07-17",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA050720"
-    },
-    {
-      "drug_name": "OGSIVEO",
-      "generic_name": "NIROGACESTAT",
-      "application_number": "NDA217677",
-      "submission_type": "SUPPL",
-      "submission_status": "AP",
-      "approval_date": "2026-07-17",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA217677"
+      "approval_date": "2026-07-13",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA219677"
     },
     {
       "drug_name": "Unknown",
@@ -365,157 +464,22 @@
       "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA205919"
     },
     {
-      "drug_name": "METFORMIN HYDROCHLORIDE",
-      "generic_name": "METFORMIN HYDROCHLORIDE",
-      "application_number": "ANDA077078",
-      "submission_type": "SUPPL",
-      "submission_status": "AP",
-      "approval_date": "2026-07-15",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA077078"
-    },
-    {
-      "drug_name": "METFORMIN HYDROCHLORIDE",
-      "generic_name": "METFORMIN HYDROCHLORIDE",
-      "application_number": "ANDA077078",
-      "submission_type": "SUPPL",
-      "submission_status": "AP",
-      "approval_date": "2026-07-15",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA077078"
-    },
-    {
-      "drug_name": "TUXARIN",
-      "generic_name": "CODEINE PHOSPHATE AND CHLORPHENIRAMINE MALEATE",
-      "application_number": "NDA206323",
-      "submission_type": "SUPPL",
-      "submission_status": "AP",
-      "approval_date": "2026-07-10",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA206323"
-    },
-    {
       "drug_name": "ZITHROMAX",
       "generic_name": "AZITHROMYCIN DIHYDRATE",
-      "application_number": "NDA050733",
+      "application_number": "NDA050710",
       "submission_type": "SUPPL",
       "submission_status": "AP",
       "approval_date": "2026-07-13",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA050733"
-    },
-    {
-      "drug_name": "FINASTERIDE",
-      "generic_name": "FINASTERIDE",
-      "application_number": "ANDA076511",
-      "submission_type": "SUPPL",
-      "submission_status": "AP",
-      "approval_date": "2026-07-02",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA076511"
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA050710"
     },
     {
       "drug_name": "Unknown",
       "generic_name": "Unknown",
-      "application_number": "NDA220848",
-      "submission_type": "ORIG",
-      "submission_status": "AP",
-      "approval_date": "2026-07-15",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA220848"
-    },
-    {
-      "drug_name": "SODIUM BICARBONATE",
-      "generic_name": "SODIUM BICARBONATE",
-      "application_number": "NDA220790",
-      "submission_type": "ORIG",
-      "submission_status": "AP",
-      "approval_date": "2026-07-09",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA220790"
-    },
-    {
-      "drug_name": "SPORANOX",
-      "generic_name": "ITRACONAZOLE",
-      "application_number": "NDA020083",
-      "submission_type": "SUPPL",
-      "submission_status": "AP",
-      "approval_date": "2026-07-07",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA020083"
-    },
-    {
-      "drug_name": "Unknown",
-      "generic_name": "Unknown",
-      "application_number": "ANDA220874",
-      "submission_type": "ORIG",
-      "submission_status": "AP",
-      "approval_date": "2026-07-01",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA220874"
-    },
-    {
-      "drug_name": "PROPOFOL",
-      "generic_name": "PROPOFOL",
-      "application_number": "ANDA220857",
-      "submission_type": "ORIG",
-      "submission_status": "AP",
-      "approval_date": "2026-07-14",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA220857"
-    },
-    {
-      "drug_name": "TEGRETOL",
-      "generic_name": "CARBAMAZEPINE",
-      "application_number": "NDA016608",
-      "submission_type": "SUPPL",
-      "submission_status": "AP",
-      "approval_date": "2026-07-15",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA016608"
-    },
-    {
-      "drug_name": "CAPECITABINE",
-      "generic_name": "CAPECITABINE",
-      "application_number": "ANDA211724",
-      "submission_type": "SUPPL",
-      "submission_status": "AP",
-      "approval_date": "2026-07-01",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA211724"
-    },
-    {
-      "drug_name": "PREGABALIN",
-      "generic_name": "PREGABALIN",
-      "application_number": "ANDA209357",
-      "submission_type": "SUPPL",
-      "submission_status": "AP",
-      "approval_date": "2026-07-14",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA209357"
-    },
-    {
-      "drug_name": "Unknown",
-      "generic_name": "Unknown",
-      "application_number": "NDA218160",
-      "submission_type": "SUPPL",
-      "submission_status": "AP",
-      "approval_date": "2026-07-14",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA218160"
-    },
-    {
-      "drug_name": "Unknown",
-      "generic_name": "Unknown",
-      "application_number": "ANDA219766",
-      "submission_type": "ORIG",
-      "submission_status": "AP",
-      "approval_date": "2026-07-13",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA219766"
-    },
-    {
-      "drug_name": "Unknown",
-      "generic_name": "Unknown",
-      "application_number": "NDA020657",
-      "submission_type": "SUPPL",
-      "submission_status": "AP",
-      "approval_date": "2026-07-07",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA020657"
-    },
-    {
-      "drug_name": "KEYTRUDA",
-      "generic_name": "PEMBROLIZUMAB",
-      "application_number": "BLA125514",
+      "application_number": "ANDA076223",
       "submission_type": "SUPPL",
       "submission_status": "AP",
       "approval_date": "2026-07-10",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=BLA125514"
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA076223"
     }
   ]
 }
