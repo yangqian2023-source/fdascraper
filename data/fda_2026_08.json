@@ -1,9 +1,36 @@
 {
   "year": 2026,
   "month": 8,
-  "scrape_time": "2026-08-05T23:04:54.294663",
+  "scrape_time": "2026-08-07T01:31:25.156844",
   "total": 9,
   "results": [
+    {
+      "drug_name": "Unknown",
+      "generic_name": "Unknown",
+      "application_number": "ANDA220119",
+      "submission_type": "ORIG",
+      "submission_status": "TA",
+      "approval_date": "2026-08-03",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA220119"
+    },
+    {
+      "drug_name": "ORENITRAM",
+      "generic_name": "TREPROSTINIL",
+      "application_number": "NDA203496",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-08-04",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA203496"
+    },
+    {
+      "drug_name": "TERIPARATIDE",
+      "generic_name": "TERIPARATIDE",
+      "application_number": "NDA211939",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-08-03",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA211939"
+    },
     {
       "drug_name": "FOUNDAYO",
       "generic_name": "ORFORGLIPRON",
@@ -57,33 +84,6 @@
       "submission_status": "AP",
       "approval_date": "2026-08-03",
       "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA021318"
-    },
-    {
-      "drug_name": "Unknown",
-      "generic_name": "Unknown",
-      "application_number": "ANDA220119",
-      "submission_type": "ORIG",
-      "submission_status": "TA",
-      "approval_date": "2026-08-03",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA220119"
-    },
-    {
-      "drug_name": "ORENITRAM",
-      "generic_name": "TREPROSTINIL",
-      "application_number": "NDA203496",
-      "submission_type": "SUPPL",
-      "submission_status": "AP",
-      "approval_date": "2026-08-04",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA203496"
-    },
-    {
-      "drug_name": "TERIPARATIDE",
-      "generic_name": "TERIPARATIDE",
-      "application_number": "NDA211939",
-      "submission_type": "SUPPL",
-      "submission_status": "AP",
-      "approval_date": "2026-08-03",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA211939"
     }
   ]
 }
