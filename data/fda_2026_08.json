@@ -1,57 +1,30 @@
 {
   "year": 2026,
   "month": 8,
-  "scrape_time": "2026-08-12T22:46:55.581668",
-  "total": 40,
+  "scrape_time": "2026-08-13T22:49:05.192258",
+  "total": 43,
   "results": [
     {
-      "drug_name": "ORENITRAM",
-      "generic_name": "TREPROSTINIL",
-      "application_number": "NDA203496",
-      "submission_type": "SUPPL",
-      "submission_status": "AP",
-      "approval_date": "2026-08-04",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA203496"
-    },
-    {
-      "drug_name": "DOXORUBICIN HYDROCHLORIDE",
-      "generic_name": "DOXORUBICIN HYDROCHLORIDE",
-      "application_number": "ANDA212299",
-      "submission_type": "SUPPL",
-      "submission_status": "AP",
-      "approval_date": "2026-08-04",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA212299"
-    },
-    {
-      "drug_name": "TERIPARATIDE",
-      "generic_name": "TERIPARATIDE",
-      "application_number": "NDA211939",
-      "submission_type": "SUPPL",
+      "drug_name": "INDOCYANINE GREEN",
+      "generic_name": "INDOCYANINE GREEN",
+      "application_number": "ANDA219139",
+      "submission_type": "ORIG",
       "submission_status": "AP",
       "approval_date": "2026-08-03",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA211939"
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA219139"
     },
     {
-      "drug_name": "DOXAZOSIN",
-      "generic_name": "DOXAZOSIN MESYLATE",
-      "application_number": "ANDA075509",
+      "drug_name": "KRYSTEXXA",
+      "generic_name": "PEGLOTICASE",
+      "application_number": "BLA125293",
       "submission_type": "SUPPL",
       "submission_status": "AP",
-      "approval_date": "2026-08-03",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA075509"
+      "approval_date": "2026-08-07",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=BLA125293"
     },
     {
-      "drug_name": "NEULASTA",
-      "generic_name": "PEGFILGRASTIM",
-      "application_number": "BLA125031",
-      "submission_type": "SUPPL",
-      "submission_status": "AP",
-      "approval_date": "2026-08-04",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=BLA125031"
-    },
-    {
-      "drug_name": "CYTARABINE",
-      "generic_name": "CYTARABINE",
+      "drug_name": "Unknown",
+      "generic_name": "Unknown",
       "application_number": "ANDA072168",
       "submission_type": "SUPPL",
       "submission_status": "AP",
@@ -84,15 +57,6 @@
       "submission_status": "AP",
       "approval_date": "2026-08-05",
       "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA207497"
-    },
-    {
-      "drug_name": "INDOCYANINE GREEN",
-      "generic_name": "INDOCYANINE GREEN",
-      "application_number": "ANDA219139",
-      "submission_type": "ORIG",
-      "submission_status": "AP",
-      "approval_date": "2026-08-03",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA219139"
     },
     {
       "drug_name": "DOXORUBICIN HYDROCHLORIDE",
@@ -149,15 +113,6 @@
       "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA072945"
     },
     {
-      "drug_name": "Unknown",
-      "generic_name": "Unknown",
-      "application_number": "NDA220860",
-      "submission_type": "ORIG",
-      "submission_status": "AP",
-      "approval_date": "2026-08-05",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA220860"
-    },
-    {
       "drug_name": "YORVIPATH",
       "generic_name": "PALOPEGTERIPARATIDE",
       "application_number": "NDA216490",
@@ -167,8 +122,17 @@
       "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA216490"
     },
     {
-      "drug_name": "FOUNDAYO",
-      "generic_name": "ORFORGLIPRON",
+      "drug_name": "Unknown",
+      "generic_name": "Unknown",
+      "application_number": "NDA220860",
+      "submission_type": "ORIG",
+      "submission_status": "AP",
+      "approval_date": "2026-08-05",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA220860"
+    },
+    {
+      "drug_name": "Unknown",
+      "generic_name": "Unknown",
       "application_number": "NDA220934",
       "submission_type": "SUPPL",
       "submission_status": "AP",
@@ -183,15 +147,6 @@
       "submission_status": "AP",
       "approval_date": "2026-08-04",
       "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA219199"
-    },
-    {
-      "drug_name": "XOLAIR",
-      "generic_name": "OMALIZUMAB",
-      "application_number": "BLA103976",
-      "submission_type": "SUPPL",
-      "submission_status": "AP",
-      "approval_date": "2026-08-06",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=BLA103976"
     },
     {
       "drug_name": "ADEMPAS",
@@ -223,15 +178,6 @@
     {
       "drug_name": "Unknown",
       "generic_name": "Unknown",
-      "application_number": "NDA050405",
-      "submission_type": "SUPPL",
-      "submission_status": "AP",
-      "approval_date": "2026-08-03",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA050405"
-    },
-    {
-      "drug_name": "Unknown",
-      "generic_name": "Unknown",
       "application_number": "ANDA211135",
       "submission_type": "SUPPL",
       "submission_status": "AP",
@@ -239,13 +185,13 @@
       "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA211135"
     },
     {
-      "drug_name": "TYMLOS",
-      "generic_name": "ABALOPARATIDE",
-      "application_number": "NDA208743",
+      "drug_name": "Unknown",
+      "generic_name": "Unknown",
+      "application_number": "NDA050405",
       "submission_type": "SUPPL",
       "submission_status": "AP",
       "approval_date": "2026-08-03",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA208743"
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA050405"
     },
     {
       "drug_name": "CYTARABINE",
@@ -255,6 +201,15 @@
       "submission_status": "AP",
       "approval_date": "2026-08-03",
       "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA075383"
+    },
+    {
+      "drug_name": "TYMLOS",
+      "generic_name": "ABALOPARATIDE",
+      "application_number": "NDA208743",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-08-03",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA208743"
     },
     {
       "drug_name": "NINTEDANIB ESYLATE",
@@ -338,6 +293,33 @@
       "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA214551"
     },
     {
+      "drug_name": "IQIRVO",
+      "generic_name": "ELAFIBRANOR",
+      "application_number": "NDA218860",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-08-07",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA218860"
+    },
+    {
+      "drug_name": "FENOFIBRATE",
+      "generic_name": "FENOFIBRATE",
+      "application_number": "ANDA208476",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-08-04",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA208476"
+    },
+    {
+      "drug_name": "SAPHNELO",
+      "generic_name": "ANIFROLUMAB-FNIA",
+      "application_number": "BLA761123",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-08-07",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=BLA761123"
+    },
+    {
       "drug_name": "Unknown",
       "generic_name": "Unknown",
       "application_number": "ANDA076685",
@@ -356,13 +338,58 @@
       "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA220119"
     },
     {
-      "drug_name": "FENOFIBRATE",
-      "generic_name": "FENOFIBRATE",
-      "application_number": "ANDA208476",
+      "drug_name": "ORENITRAM",
+      "generic_name": "TREPROSTINIL",
+      "application_number": "NDA203496",
       "submission_type": "SUPPL",
       "submission_status": "AP",
       "approval_date": "2026-08-04",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA208476"
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA203496"
+    },
+    {
+      "drug_name": "DOXORUBICIN HYDROCHLORIDE",
+      "generic_name": "DOXORUBICIN HYDROCHLORIDE",
+      "application_number": "ANDA212299",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-08-04",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA212299"
+    },
+    {
+      "drug_name": "TERIPARATIDE",
+      "generic_name": "TERIPARATIDE",
+      "application_number": "NDA211939",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-08-03",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA211939"
+    },
+    {
+      "drug_name": "DOXAZOSIN",
+      "generic_name": "DOXAZOSIN MESYLATE",
+      "application_number": "ANDA075509",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-08-03",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA075509"
+    },
+    {
+      "drug_name": "XOLAIR",
+      "generic_name": "OMALIZUMAB",
+      "application_number": "BLA103976",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-08-06",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=BLA103976"
+    },
+    {
+      "drug_name": "NEULASTA",
+      "generic_name": "PEGFILGRASTIM",
+      "application_number": "BLA125031",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-08-04",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=BLA125031"
     }
   ]
 }
