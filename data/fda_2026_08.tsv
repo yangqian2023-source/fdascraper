@@ -1,55 +1,58 @@
 药品名称	通用名	申请号	提交类型	状态	审批日期	链接
-Unknown	Unknown	ANDA213602	ORIG	TA	2026-08-07	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA213602
-Unknown	Unknown	NDA021574	SUPPL	AP	2026-08-11	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA021574
-JANUMET XR	SITAGLIPTIN AND METFORMIN HYDROCHLORIDE	NDA202270	SUPPL	AP	2026-08-11	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA202270
+WINREVAIR	SOTATERCEPT-CSRK	BLA761363	SUPPL	AP	2026-08-12	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=BLA761363
+METFORMIN	METFORMIN	ANDA209674	SUPPL	AP	2026-08-11	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA209674
+Unknown	Unknown	ANDA220448	ORIG	AP	2026-08-06	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA220448
+TRYVIO	APROCITENTAN	NDA217686	SUPPL	AP	2026-08-06	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA217686
+LAMOTRIGINE	LAMOTRIGINE	ANDA207497	SUPPL	AP	2026-08-05	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA207497
+LAMOTRIGINE	LAMOTRIGINE	ANDA207497	SUPPL	AP	2026-08-05	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA207497
+Unknown	Unknown	ANDA218130	ORIG	AP	2026-08-07	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA218130
+METFORMIN HYDROCHLORIDE	METFORMIN HYDROCHLORIDE	ANDA211052	SUPPL	AP	2026-08-11	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA211052
+FOSAPREPITANT	FOSAPREPITANT	ANDA204015	SUPPL	AP	2026-08-07	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA204015
+OLANZAPINE	OLANZAPINE	ANDA076255	SUPPL	AP	2026-08-10	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA076255
+Unknown	Unknown	ANDA208999	SUPPL	AP	2026-08-11	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA208999
+DOXORUBICIN HYDROCHLORIDE	DOXORUBICIN HYDROCHLORIDE	ANDA203263	SUPPL	AP	2026-08-04	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA203263
+SYNJARDY XR	EMPAGLIFLOZIN, METFORMIN HYDROCHLORIDE	NDA208658	SUPPL	AP	2026-08-11	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA208658
+INDOCYANINE GREEN	INDOCYANINE GREEN	ANDA219139	ORIG	AP	2026-08-03	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA219139
+Unknown	Unknown	ANDA076818	SUPPL	AP	2026-08-06	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA076818
+Unknown	Unknown	ANDA076818	SUPPL	AP	2026-08-06	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA076818
+Unknown	Unknown	ANDA077711	SUPPL	AP	2026-08-11	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA077711
+Unknown	Unknown	ANDA079226	SUPPL	AP	2026-08-11	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA079226
+SAXAGLIPTIN AND METFORMIN	SAXAGLIPTIN AND METFORMIN	ANDA205981	SUPPL	AP	2026-08-04	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA205981
+OPDIVO	NIVOLUMAB	BLA125554	SUPPL	AP	2026-08-12	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=BLA125554
+ASPIRIN AND EXTENDED - RELEASE DIPYRIDAMOLE CAPSULES, 25 MG / 200 MG	ASPIRIN AND EXTENDED - RELEASE DIPYRIDAMOLE	ANDA207944	SUPPL	AP	2026-08-05	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA207944
+ASPIRIN AND EXTENDED - RELEASE DIPYRIDAMOLE CAPSULES, 25 MG / 200 MG	ASPIRIN AND EXTENDED - RELEASE DIPYRIDAMOLE	ANDA207944	SUPPL	AP	2026-08-05	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA207944
+METFORMIN HYDROCHLORIDE ORAL SOLUTION	METFORMIN HYDROCHLORIDE	ANDA219151	SUPPL	AP	2026-08-11	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA219151
+NAPROXEN	NAPROXEN	ANDA216908	SUPPL	AP	2026-08-05	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA216908
 Unknown	Unknown	ANDA216481	ORIG	AP	2026-08-05	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA216481
 METFORMIN HYDROCHLORIDE	METFORMIN HYDROCHLORIDE	ANDA203686	SUPPL	AP	2026-08-11	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA203686
-CYTARABINE	CYTARABINE	ANDA072945	SUPPL	AP	2026-08-03	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA072945
-WINREVAIR	SOTATERCEPT-CSRK	BLA761363	SUPPL	AP	2026-08-12	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=BLA761363
-MEROPENEM	MEROPENEM	NDA215212	SUPPL	AP	2026-08-10	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA215212
-Unknown	Unknown	NDA216490	SUPPL	AP	2026-08-03	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA216490
 DAPAGLIFLOZIN AND METFORMIN HYDROCHLORIDE	DAPAGLIFLOZIN AND METFORMIN HYDROCHLORIDE	NDA205649	SUPPL	AP	2026-08-11	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA205649
 DAPAGLIFLOZIN AND METFORMIN HYDROCHLORIDE	DAPAGLIFLOZIN AND METFORMIN HYDROCHLORIDE	NDA205649	SUPPL	AP	2026-08-11	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA205649
 Unknown	Unknown	NDA220860	ORIG	AP	2026-08-05	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA220860
-FOUNDAYO	ORFORGLIPRON	NDA220934	SUPPL	AP	2026-08-04	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA220934
 Unknown	Unknown	ANDA210426	ORIG	AP	2026-08-12	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA210426
 DOXORUBICIN HYDROCHLORIDE	DOXORUBICIN HYDROCHLORIDE	ANDA219199	SUPPL	AP	2026-08-04	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA219199
+FOUNDAYO	ORFORGLIPRON	NDA220934	SUPPL	AP	2026-08-04	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA220934
 ADEMPAS	RIOCIGUAT	NDA204819	SUPPL	AP	2026-08-04	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA204819
 FENOFIBRATE	FENOFIBRATE	ANDA204475	SUPPL	AP	2026-08-05	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA204475
 Unknown	Unknown	ANDA076863	SUPPL	AP	2026-08-10	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA076863
 Unknown	Unknown	ANDA076863	SUPPL	AP	2026-08-10	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA076863
 REPAGLINIDE	REPAGLINIDE	ANDA207209	SUPPL	AP	2026-08-07	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA207209
 ABSORICA	ISOTRETINOIN	NDA021951	SUPPL	AP	2026-08-11	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA021951
-HEPZATO KIT	MELPHALAN HYDROCHLORIDE INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION	NDA201848	SUPPL	AP	2026-08-12	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA201848
+Unknown	Unknown	ANDA213602	ORIG	TA	2026-08-07	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA213602
+Unknown	Unknown	NDA021574	SUPPL	AP	2026-08-11	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA021574
+JANUMET XR	SITAGLIPTIN AND METFORMIN HYDROCHLORIDE	NDA202270	SUPPL	AP	2026-08-11	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA202270
+SCOPOLAMINE	SCOPOLAMINE	ANDA203753	SUPPL	AP	2026-08-10	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA203753
+SCOPOLAMINE	SCOPOLAMINE	ANDA203753	SUPPL	AP	2026-08-10	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA203753
+DOXORUBICIN HYDROCHLORIDE LIPOSOME	DOXORUBICIN HYDROCHLORIDE	ANDA219881	SUPPL	AP	2026-08-04	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA219881
 Unknown	Unknown	ANDA211135	SUPPL	AP	2026-08-04	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA211135
 LURBIRO	FLURBIPROFEN	ANDA074431	SUPPL	AP	2026-08-07	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA074431
-CYTARABINE	CYTARABINE	ANDA075383	SUPPL	AP	2026-08-03	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA075383
+HEPZATO KIT	MELPHALAN HYDROCHLORIDE INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION	NDA201848	SUPPL	AP	2026-08-12	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA201848
 Unknown	Unknown	NDA208743	SUPPL	AP	2026-08-03	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA208743
 Unknown	Unknown	NDA050405	SUPPL	AP	2026-08-03	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA050405
+CYTARABINE	CYTARABINE	ANDA075383	SUPPL	AP	2026-08-03	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA075383
 Unknown	Unknown	ANDA078083	SUPPL	AP	2026-08-11	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA078083
 PRAVASTATIN SODIUM	PRAVASTATIN SODIUM	ANDA077491	SUPPL	AP	2026-08-06	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA077491
 SEGLUROMET	ERTUGLIFLOZIN AND METFORMIN HYDROCHLORIDE	NDA209806	SUPPL	AP	2026-08-11	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA209806
 SEGLUROMET	ERTUGLIFLOZIN AND METFORMIN HYDROCHLORIDE	NDA209806	SUPPL	AP	2026-08-11	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA209806
 JENTADUETO XR	LINAGLIPTIN AND METFORMIN HYDROCHLORIDE	NDA208026	SUPPL	AP	2026-08-11	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA208026
 Unknown	Unknown	NDA050429	SUPPL	AP	2026-08-12	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA050429
-METFORMIN HYDROCHLORIDE	METFORMIN HYDROCHLORIDE	ANDA075972	SUPPL	AP	2026-08-11	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA075972
 Unknown	Unknown	ANDA077787	SUPPL	AP	2026-08-11	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA077787
-NINTEDANIB ESYLATE	NINTEDANIB ESYLATE	ANDA219926	ORIG	AP	2026-08-03	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA219926
-Unknown	Unknown	ANDA202306	SUPPL	AP	2026-08-11	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA202306
-Unknown	Unknown	NDA218771	SUPPL	AP	2026-08-03	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA218771
-Unknown	Unknown	ANDA219286	ORIG	AP	2026-08-10	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA219286
-METFORMIN HYDROCHLORIDE	METFORMIN HYDROCHLORIDE	ANDA213651	SUPPL	AP	2026-08-11	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA213651
-Unknown	Unknown	ANDA075978	SUPPL	AP	2026-08-11	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA075978
-DALFAMPRIDINE	DALFAMPRIDINE	ANDA210158	SUPPL	AP	2026-08-10	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA210158
-SACUBITRIL AND VALSARTAN	SACUBITRIL AND VALSARTAN	ANDA219946	ORIG	AP	2026-08-04	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA219946
-METFORMIN HYDROCHLORIDE	METFORMIN HYDROCHLORIDE	ANDA205330	SUPPL	AP	2026-08-11	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA205330
-DOXYCYCLINE HYCLATE	DOXYCYCLINE	ANDA207289	SUPPL	AP	2026-08-11	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA207289
-Unknown	Unknown	ANDA075985	SUPPL	AP	2026-08-11	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA075985
-Unknown	Unknown	ANDA075985	SUPPL	AP	2026-08-11	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA075985
-KAZANO	ALOGLIPTIN AND METFORMIN HYDROCHLORIDE	NDA203414	SUPPL	AP	2026-08-11	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA203414
-Unknown	Unknown	ANDA219307	ORIG	TA	2026-08-05	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA219307
-INPEFA	SOTAGLIFLOZIN	NDA216203	SUPPL	AP	2026-08-06	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA216203
-Unknown	Unknown	ANDA219334	ORIG	AP	2026-08-04	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA219334
-SYNJARDY	EMPAGLIFLOZIN AND METFORMIN HYDROCHLORIDE	NDA206111	SUPPL	AP	2026-08-11	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA206111
-Unknown	Unknown	ANDA078422	SUPPL	AP	2026-08-11	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA078422
-TERIPARATIDE	TERIPARATIDE	NDA021318	SUPPL	AP	2026-08-03	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA021318

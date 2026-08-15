@@ -1,35 +1,224 @@
 {
   "year": 2026,
   "month": 8,
-  "scrape_time": "2026-08-14T22:27:46.943561",
-  "total": 54,
+  "scrape_time": "2026-08-15T22:26:27.086420",
+  "total": 57,
   "results": [
     {
+      "drug_name": "WINREVAIR",
+      "generic_name": "SOTATERCEPT-CSRK",
+      "application_number": "BLA761363",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-08-12",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=BLA761363"
+    },
+    {
+      "drug_name": "METFORMIN",
+      "generic_name": "METFORMIN",
+      "application_number": "ANDA209674",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-08-11",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA209674"
+    },
+    {
       "drug_name": "Unknown",
       "generic_name": "Unknown",
-      "application_number": "ANDA213602",
+      "application_number": "ANDA220448",
       "submission_type": "ORIG",
-      "submission_status": "TA",
-      "approval_date": "2026-08-07",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA213602"
+      "submission_status": "AP",
+      "approval_date": "2026-08-06",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA220448"
+    },
+    {
+      "drug_name": "TRYVIO",
+      "generic_name": "APROCITENTAN",
+      "application_number": "NDA217686",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-08-06",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA217686"
+    },
+    {
+      "drug_name": "LAMOTRIGINE",
+      "generic_name": "LAMOTRIGINE",
+      "application_number": "ANDA207497",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-08-05",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA207497"
+    },
+    {
+      "drug_name": "LAMOTRIGINE",
+      "generic_name": "LAMOTRIGINE",
+      "application_number": "ANDA207497",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-08-05",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA207497"
     },
     {
       "drug_name": "Unknown",
       "generic_name": "Unknown",
-      "application_number": "NDA021574",
-      "submission_type": "SUPPL",
+      "application_number": "ANDA218130",
+      "submission_type": "ORIG",
       "submission_status": "AP",
-      "approval_date": "2026-08-11",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA021574"
+      "approval_date": "2026-08-07",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA218130"
     },
     {
-      "drug_name": "JANUMET XR",
-      "generic_name": "SITAGLIPTIN AND METFORMIN HYDROCHLORIDE",
-      "application_number": "NDA202270",
+      "drug_name": "METFORMIN HYDROCHLORIDE",
+      "generic_name": "METFORMIN HYDROCHLORIDE",
+      "application_number": "ANDA211052",
       "submission_type": "SUPPL",
       "submission_status": "AP",
       "approval_date": "2026-08-11",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA202270"
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA211052"
+    },
+    {
+      "drug_name": "FOSAPREPITANT",
+      "generic_name": "FOSAPREPITANT",
+      "application_number": "ANDA204015",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-08-07",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA204015"
+    },
+    {
+      "drug_name": "OLANZAPINE",
+      "generic_name": "OLANZAPINE",
+      "application_number": "ANDA076255",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-08-10",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA076255"
+    },
+    {
+      "drug_name": "Unknown",
+      "generic_name": "Unknown",
+      "application_number": "ANDA208999",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-08-11",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA208999"
+    },
+    {
+      "drug_name": "DOXORUBICIN HYDROCHLORIDE",
+      "generic_name": "DOXORUBICIN HYDROCHLORIDE",
+      "application_number": "ANDA203263",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-08-04",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA203263"
+    },
+    {
+      "drug_name": "SYNJARDY XR",
+      "generic_name": "EMPAGLIFLOZIN, METFORMIN HYDROCHLORIDE",
+      "application_number": "NDA208658",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-08-11",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA208658"
+    },
+    {
+      "drug_name": "INDOCYANINE GREEN",
+      "generic_name": "INDOCYANINE GREEN",
+      "application_number": "ANDA219139",
+      "submission_type": "ORIG",
+      "submission_status": "AP",
+      "approval_date": "2026-08-03",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA219139"
+    },
+    {
+      "drug_name": "Unknown",
+      "generic_name": "Unknown",
+      "application_number": "ANDA076818",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-08-06",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA076818"
+    },
+    {
+      "drug_name": "Unknown",
+      "generic_name": "Unknown",
+      "application_number": "ANDA076818",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-08-06",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA076818"
+    },
+    {
+      "drug_name": "Unknown",
+      "generic_name": "Unknown",
+      "application_number": "ANDA077711",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-08-11",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA077711"
+    },
+    {
+      "drug_name": "Unknown",
+      "generic_name": "Unknown",
+      "application_number": "ANDA079226",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-08-11",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA079226"
+    },
+    {
+      "drug_name": "SAXAGLIPTIN AND METFORMIN",
+      "generic_name": "SAXAGLIPTIN AND METFORMIN",
+      "application_number": "ANDA205981",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-08-04",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA205981"
+    },
+    {
+      "drug_name": "OPDIVO",
+      "generic_name": "NIVOLUMAB",
+      "application_number": "BLA125554",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-08-12",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=BLA125554"
+    },
+    {
+      "drug_name": "ASPIRIN AND EXTENDED - RELEASE DIPYRIDAMOLE CAPSULES, 25 MG / 200 MG",
+      "generic_name": "ASPIRIN AND EXTENDED - RELEASE DIPYRIDAMOLE",
+      "application_number": "ANDA207944",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-08-05",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA207944"
+    },
+    {
+      "drug_name": "ASPIRIN AND EXTENDED - RELEASE DIPYRIDAMOLE CAPSULES, 25 MG / 200 MG",
+      "generic_name": "ASPIRIN AND EXTENDED - RELEASE DIPYRIDAMOLE",
+      "application_number": "ANDA207944",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-08-05",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA207944"
+    },
+    {
+      "drug_name": "METFORMIN HYDROCHLORIDE ORAL SOLUTION",
+      "generic_name": "METFORMIN HYDROCHLORIDE",
+      "application_number": "ANDA219151",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-08-11",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA219151"
+    },
+    {
+      "drug_name": "NAPROXEN",
+      "generic_name": "NAPROXEN",
+      "application_number": "ANDA216908",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-08-05",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA216908"
     },
     {
       "drug_name": "Unknown",
@@ -48,42 +237,6 @@
       "submission_status": "AP",
       "approval_date": "2026-08-11",
       "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA203686"
-    },
-    {
-      "drug_name": "CYTARABINE",
-      "generic_name": "CYTARABINE",
-      "application_number": "ANDA072945",
-      "submission_type": "SUPPL",
-      "submission_status": "AP",
-      "approval_date": "2026-08-03",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA072945"
-    },
-    {
-      "drug_name": "WINREVAIR",
-      "generic_name": "SOTATERCEPT-CSRK",
-      "application_number": "BLA761363",
-      "submission_type": "SUPPL",
-      "submission_status": "AP",
-      "approval_date": "2026-08-12",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=BLA761363"
-    },
-    {
-      "drug_name": "MEROPENEM",
-      "generic_name": "MEROPENEM",
-      "application_number": "NDA215212",
-      "submission_type": "SUPPL",
-      "submission_status": "AP",
-      "approval_date": "2026-08-10",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA215212"
-    },
-    {
-      "drug_name": "Unknown",
-      "generic_name": "Unknown",
-      "application_number": "NDA216490",
-      "submission_type": "SUPPL",
-      "submission_status": "AP",
-      "approval_date": "2026-08-03",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA216490"
     },
     {
       "drug_name": "DAPAGLIFLOZIN AND METFORMIN HYDROCHLORIDE",
@@ -113,15 +266,6 @@
       "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA220860"
     },
     {
-      "drug_name": "FOUNDAYO",
-      "generic_name": "ORFORGLIPRON",
-      "application_number": "NDA220934",
-      "submission_type": "SUPPL",
-      "submission_status": "AP",
-      "approval_date": "2026-08-04",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA220934"
-    },
-    {
       "drug_name": "Unknown",
       "generic_name": "Unknown",
       "application_number": "ANDA210426",
@@ -138,6 +282,15 @@
       "submission_status": "AP",
       "approval_date": "2026-08-04",
       "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA219199"
+    },
+    {
+      "drug_name": "FOUNDAYO",
+      "generic_name": "ORFORGLIPRON",
+      "application_number": "NDA220934",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-08-04",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA220934"
     },
     {
       "drug_name": "ADEMPAS",
@@ -194,13 +347,58 @@
       "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA021951"
     },
     {
-      "drug_name": "HEPZATO KIT",
-      "generic_name": "MELPHALAN HYDROCHLORIDE INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
-      "application_number": "NDA201848",
+      "drug_name": "Unknown",
+      "generic_name": "Unknown",
+      "application_number": "ANDA213602",
+      "submission_type": "ORIG",
+      "submission_status": "TA",
+      "approval_date": "2026-08-07",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA213602"
+    },
+    {
+      "drug_name": "Unknown",
+      "generic_name": "Unknown",
+      "application_number": "NDA021574",
       "submission_type": "SUPPL",
       "submission_status": "AP",
-      "approval_date": "2026-08-12",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA201848"
+      "approval_date": "2026-08-11",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA021574"
+    },
+    {
+      "drug_name": "JANUMET XR",
+      "generic_name": "SITAGLIPTIN AND METFORMIN HYDROCHLORIDE",
+      "application_number": "NDA202270",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-08-11",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA202270"
+    },
+    {
+      "drug_name": "SCOPOLAMINE",
+      "generic_name": "SCOPOLAMINE",
+      "application_number": "ANDA203753",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-08-10",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA203753"
+    },
+    {
+      "drug_name": "SCOPOLAMINE",
+      "generic_name": "SCOPOLAMINE",
+      "application_number": "ANDA203753",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-08-10",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA203753"
+    },
+    {
+      "drug_name": "DOXORUBICIN HYDROCHLORIDE LIPOSOME",
+      "generic_name": "DOXORUBICIN HYDROCHLORIDE",
+      "application_number": "ANDA219881",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-08-04",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA219881"
     },
     {
       "drug_name": "Unknown",
@@ -221,13 +419,13 @@
       "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA074431"
     },
     {
-      "drug_name": "CYTARABINE",
-      "generic_name": "CYTARABINE",
-      "application_number": "ANDA075383",
+      "drug_name": "HEPZATO KIT",
+      "generic_name": "MELPHALAN HYDROCHLORIDE INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "application_number": "NDA201848",
       "submission_type": "SUPPL",
       "submission_status": "AP",
-      "approval_date": "2026-08-03",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA075383"
+      "approval_date": "2026-08-12",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA201848"
     },
     {
       "drug_name": "Unknown",
@@ -246,6 +444,15 @@
       "submission_status": "AP",
       "approval_date": "2026-08-03",
       "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA050405"
+    },
+    {
+      "drug_name": "CYTARABINE",
+      "generic_name": "CYTARABINE",
+      "application_number": "ANDA075383",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-08-03",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA075383"
     },
     {
       "drug_name": "Unknown",
@@ -302,15 +509,6 @@
       "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA050429"
     },
     {
-      "drug_name": "METFORMIN HYDROCHLORIDE",
-      "generic_name": "METFORMIN HYDROCHLORIDE",
-      "application_number": "ANDA075972",
-      "submission_type": "SUPPL",
-      "submission_status": "AP",
-      "approval_date": "2026-08-11",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA075972"
-    },
-    {
       "drug_name": "Unknown",
       "generic_name": "Unknown",
       "application_number": "ANDA077787",
@@ -318,177 +516,6 @@
       "submission_status": "AP",
       "approval_date": "2026-08-11",
       "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA077787"
-    },
-    {
-      "drug_name": "NINTEDANIB ESYLATE",
-      "generic_name": "NINTEDANIB ESYLATE",
-      "application_number": "ANDA219926",
-      "submission_type": "ORIG",
-      "submission_status": "AP",
-      "approval_date": "2026-08-03",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA219926"
-    },
-    {
-      "drug_name": "Unknown",
-      "generic_name": "Unknown",
-      "application_number": "ANDA202306",
-      "submission_type": "SUPPL",
-      "submission_status": "AP",
-      "approval_date": "2026-08-11",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA202306"
-    },
-    {
-      "drug_name": "Unknown",
-      "generic_name": "Unknown",
-      "application_number": "NDA218771",
-      "submission_type": "SUPPL",
-      "submission_status": "AP",
-      "approval_date": "2026-08-03",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA218771"
-    },
-    {
-      "drug_name": "Unknown",
-      "generic_name": "Unknown",
-      "application_number": "ANDA219286",
-      "submission_type": "ORIG",
-      "submission_status": "AP",
-      "approval_date": "2026-08-10",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA219286"
-    },
-    {
-      "drug_name": "METFORMIN HYDROCHLORIDE",
-      "generic_name": "METFORMIN HYDROCHLORIDE",
-      "application_number": "ANDA213651",
-      "submission_type": "SUPPL",
-      "submission_status": "AP",
-      "approval_date": "2026-08-11",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA213651"
-    },
-    {
-      "drug_name": "Unknown",
-      "generic_name": "Unknown",
-      "application_number": "ANDA075978",
-      "submission_type": "SUPPL",
-      "submission_status": "AP",
-      "approval_date": "2026-08-11",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA075978"
-    },
-    {
-      "drug_name": "DALFAMPRIDINE",
-      "generic_name": "DALFAMPRIDINE",
-      "application_number": "ANDA210158",
-      "submission_type": "SUPPL",
-      "submission_status": "AP",
-      "approval_date": "2026-08-10",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA210158"
-    },
-    {
-      "drug_name": "SACUBITRIL AND VALSARTAN",
-      "generic_name": "SACUBITRIL AND VALSARTAN",
-      "application_number": "ANDA219946",
-      "submission_type": "ORIG",
-      "submission_status": "AP",
-      "approval_date": "2026-08-04",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA219946"
-    },
-    {
-      "drug_name": "METFORMIN HYDROCHLORIDE",
-      "generic_name": "METFORMIN HYDROCHLORIDE",
-      "application_number": "ANDA205330",
-      "submission_type": "SUPPL",
-      "submission_status": "AP",
-      "approval_date": "2026-08-11",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA205330"
-    },
-    {
-      "drug_name": "DOXYCYCLINE HYCLATE",
-      "generic_name": "DOXYCYCLINE",
-      "application_number": "ANDA207289",
-      "submission_type": "SUPPL",
-      "submission_status": "AP",
-      "approval_date": "2026-08-11",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA207289"
-    },
-    {
-      "drug_name": "Unknown",
-      "generic_name": "Unknown",
-      "application_number": "ANDA075985",
-      "submission_type": "SUPPL",
-      "submission_status": "AP",
-      "approval_date": "2026-08-11",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA075985"
-    },
-    {
-      "drug_name": "Unknown",
-      "generic_name": "Unknown",
-      "application_number": "ANDA075985",
-      "submission_type": "SUPPL",
-      "submission_status": "AP",
-      "approval_date": "2026-08-11",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA075985"
-    },
-    {
-      "drug_name": "KAZANO",
-      "generic_name": "ALOGLIPTIN AND METFORMIN HYDROCHLORIDE",
-      "application_number": "NDA203414",
-      "submission_type": "SUPPL",
-      "submission_status": "AP",
-      "approval_date": "2026-08-11",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA203414"
-    },
-    {
-      "drug_name": "Unknown",
-      "generic_name": "Unknown",
-      "application_number": "ANDA219307",
-      "submission_type": "ORIG",
-      "submission_status": "TA",
-      "approval_date": "2026-08-05",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA219307"
-    },
-    {
-      "drug_name": "INPEFA",
-      "generic_name": "SOTAGLIFLOZIN",
-      "application_number": "NDA216203",
-      "submission_type": "SUPPL",
-      "submission_status": "AP",
-      "approval_date": "2026-08-06",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA216203"
-    },
-    {
-      "drug_name": "Unknown",
-      "generic_name": "Unknown",
-      "application_number": "ANDA219334",
-      "submission_type": "ORIG",
-      "submission_status": "AP",
-      "approval_date": "2026-08-04",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA219334"
-    },
-    {
-      "drug_name": "SYNJARDY",
-      "generic_name": "EMPAGLIFLOZIN AND METFORMIN HYDROCHLORIDE",
-      "application_number": "NDA206111",
-      "submission_type": "SUPPL",
-      "submission_status": "AP",
-      "approval_date": "2026-08-11",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA206111"
-    },
-    {
-      "drug_name": "Unknown",
-      "generic_name": "Unknown",
-      "application_number": "ANDA078422",
-      "submission_type": "SUPPL",
-      "submission_status": "AP",
-      "approval_date": "2026-08-11",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA078422"
-    },
-    {
-      "drug_name": "TERIPARATIDE",
-      "generic_name": "TERIPARATIDE",
-      "application_number": "NDA021318",
-      "submission_type": "SUPPL",
-      "submission_status": "AP",
-      "approval_date": "2026-08-03",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA021318"
     }
   ]
 }
