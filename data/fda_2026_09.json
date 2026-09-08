@@ -1,26 +1,26 @@
 {
   "year": 2026,
   "month": 9,
-  "scrape_time": "2026-09-08T00:05:09.397070",
-  "total": 13,
+  "scrape_time": "2026-09-08T23:57:06.429773",
+  "total": 28,
   "results": [
     {
-      "drug_name": "NEVIRAPINE",
-      "generic_name": "NEVIRAPINE",
-      "application_number": "ANDA205651",
+      "drug_name": "Unknown",
+      "generic_name": "Unknown",
+      "application_number": "ANDA078734",
       "submission_type": "SUPPL",
       "submission_status": "AP",
-      "approval_date": "2026-09-01",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA205651"
+      "approval_date": "2026-09-02",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA078734"
     },
     {
-      "drug_name": "CLEOCIN HYDROCHLORIDE",
-      "generic_name": "CLINDAMYCIN HYDROCHLORIDE",
-      "application_number": "NDA050162",
-      "submission_type": "SUPPL",
-      "submission_status": "AP",
-      "approval_date": "2026-09-01",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA050162"
+      "drug_name": "Unknown",
+      "generic_name": "Unknown",
+      "application_number": "ANDA219913",
+      "submission_type": "ORIG",
+      "submission_status": "TA",
+      "approval_date": "2026-09-02",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA219913"
     },
     {
       "drug_name": "FYARRO",
@@ -32,6 +32,24 @@
       "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA213312"
     },
     {
+      "drug_name": "AVTOZMA",
+      "generic_name": "TOCILIZUMAB",
+      "application_number": "BLA761420",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-09-02",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=BLA761420"
+    },
+    {
+      "drug_name": "Unknown",
+      "generic_name": "Unknown",
+      "application_number": "ANDA214523",
+      "submission_type": "ORIG",
+      "submission_status": "AP",
+      "approval_date": "2026-09-02",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA214523"
+    },
+    {
       "drug_name": "LIDOCAINE HCL AND EPINEPHRINE",
       "generic_name": "LIDOCAINE HCL AND EPINEPHRINE",
       "application_number": "ANDA208475",
@@ -39,6 +57,60 @@
       "submission_status": "AP",
       "approval_date": "2026-09-01",
       "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA208475"
+    },
+    {
+      "drug_name": "AVTOZMA",
+      "generic_name": "TOCILIZUMAB",
+      "application_number": "BLA761498",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-09-02",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=BLA761498"
+    },
+    {
+      "drug_name": "Unknown",
+      "generic_name": "Unknown",
+      "application_number": "ANDA090062",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-09-02",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA090062"
+    },
+    {
+      "drug_name": "BUPROPION HYDROCHLORIDE SR",
+      "generic_name": "BUPROPION HYDROCHLORIDE",
+      "application_number": "ANDA079095",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-09-02",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA079095"
+    },
+    {
+      "drug_name": "BUPROPION HYDROCHLORIDE SR",
+      "generic_name": "BUPROPION HYDROCHLORIDE",
+      "application_number": "ANDA079095",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-09-02",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA079095"
+    },
+    {
+      "drug_name": "BUPROPION HYDROCHLORIDE SR",
+      "generic_name": "BUPROPION HYDROCHLORIDE",
+      "application_number": "ANDA079095",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-09-02",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA079095"
+    },
+    {
+      "drug_name": "BUPROPION HYDROCHLORIDE SR",
+      "generic_name": "BUPROPION HYDROCHLORIDE",
+      "application_number": "ANDA079095",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-09-02",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA079095"
     },
     {
       "drug_name": "DOXEPIN HYDROCHLORIDE",
@@ -50,15 +122,6 @@
       "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA211619"
     },
     {
-      "drug_name": "Unknown",
-      "generic_name": "Unknown",
-      "application_number": "ANDA211482",
-      "submission_type": "SUPPL",
-      "submission_status": "AP",
-      "approval_date": "2026-09-02",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA211482"
-    },
-    {
       "drug_name": "KRAZATI",
       "generic_name": "ADAGRASIB",
       "application_number": "NDA216340",
@@ -68,13 +131,22 @@
       "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA216340"
     },
     {
-      "drug_name": "ETOPOPHOS",
-      "generic_name": "ETOPOSIDE PHOSPHATE",
+      "drug_name": "Unknown",
+      "generic_name": "Unknown",
       "application_number": "NDA020457",
       "submission_type": "SUPPL",
       "submission_status": "AP",
       "approval_date": "2026-09-02",
       "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA020457"
+    },
+    {
+      "drug_name": "Unknown",
+      "generic_name": "Unknown",
+      "application_number": "NDA220210",
+      "submission_type": "ORIG",
+      "submission_status": "AP",
+      "approval_date": "2026-09-03",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA220210"
     },
     {
       "drug_name": "ULTRAMICROSIZE GRISEOFULVIN",
@@ -113,6 +185,15 @@
       "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=BLA761202"
     },
     {
+      "drug_name": "Unknown",
+      "generic_name": "Unknown",
+      "application_number": "ANDA214750",
+      "submission_type": "ORIG",
+      "submission_status": "TA",
+      "approval_date": "2026-09-02",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA214750"
+    },
+    {
       "drug_name": "NELARABINE",
       "generic_name": "NELARABINE",
       "application_number": "ANDA216038",
@@ -120,6 +201,60 @@
       "submission_status": "AP",
       "approval_date": "2026-09-01",
       "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA216038"
+    },
+    {
+      "drug_name": "THALOMID",
+      "generic_name": "THALIDOMIDE",
+      "application_number": "NDA020785",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-09-02",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA020785"
+    },
+    {
+      "drug_name": "NEVIRAPINE",
+      "generic_name": "NEVIRAPINE",
+      "application_number": "ANDA205651",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-09-01",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA205651"
+    },
+    {
+      "drug_name": "CLEOCIN HYDROCHLORIDE",
+      "generic_name": "CLINDAMYCIN HYDROCHLORIDE",
+      "application_number": "NDA050162",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-09-01",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA050162"
+    },
+    {
+      "drug_name": "DAPAGLIFLOZIN",
+      "generic_name": "DAPAGLIFLOZIN",
+      "application_number": "ANDA211482",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-09-02",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA211482"
+    },
+    {
+      "drug_name": "Unknown",
+      "generic_name": "Unknown",
+      "application_number": "ANDA213631",
+      "submission_type": "ORIG",
+      "submission_status": "AP",
+      "approval_date": "2026-09-02",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA213631"
+    },
+    {
+      "drug_name": "Unknown",
+      "generic_name": "Unknown",
+      "application_number": "ANDA213267",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-09-02",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA213267"
     }
   ]
 }
