@@ -1,7 +1,7 @@
 {
   "year": 2026,
   "month": 9,
-  "scrape_time": "2026-09-09T23:56:09.169138",
+  "scrape_time": "2026-09-10T23:52:11.426603",
   "total": 28,
   "results": [
     {
@@ -39,15 +39,6 @@
       "submission_status": "AP",
       "approval_date": "2026-09-02",
       "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA211482"
-    },
-    {
-      "drug_name": "Unknown",
-      "generic_name": "Unknown",
-      "application_number": "ANDA213267",
-      "submission_type": "SUPPL",
-      "submission_status": "AP",
-      "approval_date": "2026-09-02",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA213267"
     },
     {
       "drug_name": "Unknown",
@@ -113,6 +104,24 @@
       "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=BLA761498"
     },
     {
+      "drug_name": "DOXEPIN HYDROCHLORIDE",
+      "generic_name": "DOXEPIN HYDROCHLORIDE",
+      "application_number": "ANDA211619",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-09-01",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA211619"
+    },
+    {
+      "drug_name": "Unknown",
+      "generic_name": "Unknown",
+      "application_number": "ANDA090062",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-09-02",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA090062"
+    },
+    {
       "drug_name": "BUPROPION HYDROCHLORIDE SR",
       "generic_name": "BUPROPION HYDROCHLORIDE",
       "application_number": "ANDA079095",
@@ -151,20 +160,11 @@
     {
       "drug_name": "Unknown",
       "generic_name": "Unknown",
-      "application_number": "ANDA090062",
+      "application_number": "ANDA213267",
       "submission_type": "SUPPL",
       "submission_status": "AP",
       "approval_date": "2026-09-02",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA090062"
-    },
-    {
-      "drug_name": "DOXEPIN HYDROCHLORIDE",
-      "generic_name": "DOXEPIN HYDROCHLORIDE",
-      "application_number": "ANDA211619",
-      "submission_type": "SUPPL",
-      "submission_status": "AP",
-      "approval_date": "2026-09-01",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA211619"
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA213267"
     },
     {
       "drug_name": "Unknown",
@@ -194,15 +194,6 @@
       "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA020457"
     },
     {
-      "drug_name": "Unknown",
-      "generic_name": "Unknown",
-      "application_number": "NDA220210",
-      "submission_type": "ORIG",
-      "submission_status": "AP",
-      "approval_date": "2026-09-03",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA220210"
-    },
-    {
       "drug_name": "ULTRAMICROSIZE GRISEOFULVIN",
       "generic_name": "ULTRAMICROSIZE GRISEOFULVIN",
       "application_number": "ANDA061996",
@@ -210,6 +201,15 @@
       "submission_status": "AP",
       "approval_date": "2026-09-01",
       "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA061996"
+    },
+    {
+      "drug_name": "Unknown",
+      "generic_name": "Unknown",
+      "application_number": "NDA220210",
+      "submission_type": "ORIG",
+      "submission_status": "AP",
+      "approval_date": "2026-09-03",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA220210"
     },
     {
       "drug_name": "CIBINQO",
