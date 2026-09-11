@@ -1,9 +1,90 @@
 {
   "year": 2026,
   "month": 9,
-  "scrape_time": "2026-09-10T23:52:11.426603",
-  "total": 28,
+  "scrape_time": "2026-09-11T23:59:41.593882",
+  "total": 46,
   "results": [
+    {
+      "drug_name": "Unknown",
+      "generic_name": "Unknown",
+      "application_number": "ANDA214750",
+      "submission_type": "ORIG",
+      "submission_status": "TA",
+      "approval_date": "2026-09-02",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA214750"
+    },
+    {
+      "drug_name": "NITROFURANTOIN",
+      "generic_name": "NITROFURANTOIN",
+      "application_number": "ANDA216385",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-09-04",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA216385"
+    },
+    {
+      "drug_name": "Unknown",
+      "generic_name": "Unknown",
+      "application_number": "ANDA217650",
+      "submission_type": "ORIG",
+      "submission_status": "TA",
+      "approval_date": "2026-09-01",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA217650"
+    },
+    {
+      "drug_name": "ACYCLOVIR",
+      "generic_name": "ACYCLOVIR",
+      "application_number": "ANDA202168",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-09-03",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA202168"
+    },
+    {
+      "drug_name": "ETCAMAH",
+      "generic_name": "CAMIZESTRANT",
+      "application_number": "NDA220359",
+      "submission_type": "ORIG",
+      "submission_status": "AP",
+      "approval_date": "2026-09-04",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA220359"
+    },
+    {
+      "drug_name": "BYOOVIZ",
+      "generic_name": "RANIBIZUMAB-NUNA",
+      "application_number": "BLA761202",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-09-01",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=BLA761202"
+    },
+    {
+      "drug_name": "NELARABINE",
+      "generic_name": "NELARABINE",
+      "application_number": "ANDA216038",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-09-01",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA216038"
+    },
+    {
+      "drug_name": "LACOSAMIDE",
+      "generic_name": "LACOSAMIDE",
+      "application_number": "ANDA208308",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-09-04",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA208308"
+    },
+    {
+      "drug_name": "Unknown",
+      "generic_name": "Unknown",
+      "application_number": "ANDA202934",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-09-04",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA202934"
+    },
     {
       "drug_name": "THALOMID",
       "generic_name": "THALIDOMIDE",
@@ -23,6 +104,24 @@
       "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA205651"
     },
     {
+      "drug_name": "Unknown",
+      "generic_name": "Unknown",
+      "application_number": "ANDA208343",
+      "submission_type": "ORIG",
+      "submission_status": "AP",
+      "approval_date": "2026-09-03",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA208343"
+    },
+    {
+      "drug_name": "Unknown",
+      "generic_name": "Unknown",
+      "application_number": "ANDA219183",
+      "submission_type": "ORIG",
+      "submission_status": "AP",
+      "approval_date": "2026-09-04",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA219183"
+    },
+    {
       "drug_name": "CLEOCIN HYDROCHLORIDE",
       "generic_name": "CLINDAMYCIN HYDROCHLORIDE",
       "application_number": "NDA050162",
@@ -30,6 +129,33 @@
       "submission_status": "AP",
       "approval_date": "2026-09-01",
       "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA050162"
+    },
+    {
+      "drug_name": "MINOXIDIL",
+      "generic_name": "MINOXIDIL FOAM 5% (WOMENS)",
+      "application_number": "ANDA209074",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-09-04",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA209074"
+    },
+    {
+      "drug_name": "MINOXIDIL",
+      "generic_name": "MINOXIDIL FOAM 5% (WOMENS)",
+      "application_number": "ANDA209074",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-09-04",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA209074"
+    },
+    {
+      "drug_name": "Unknown",
+      "generic_name": "Unknown",
+      "application_number": "NDA220613",
+      "submission_type": "ORIG",
+      "submission_status": "AP",
+      "approval_date": "2026-09-03",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA220613"
     },
     {
       "drug_name": "DAPAGLIFLOZIN",
@@ -43,11 +169,47 @@
     {
       "drug_name": "Unknown",
       "generic_name": "Unknown",
-      "application_number": "ANDA219913",
-      "submission_type": "ORIG",
-      "submission_status": "TA",
+      "application_number": "ANDA213267",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
       "approval_date": "2026-09-02",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA219913"
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA213267"
+    },
+    {
+      "drug_name": "Unknown",
+      "generic_name": "Unknown",
+      "application_number": "ANDA213631",
+      "submission_type": "ORIG",
+      "submission_status": "AP",
+      "approval_date": "2026-09-02",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA213631"
+    },
+    {
+      "drug_name": "TRIAMCINOLONE ACETONIDE",
+      "generic_name": "TRIAMCINOLONE ACETONIDE",
+      "application_number": "ANDA040671",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-09-08",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA040671"
+    },
+    {
+      "drug_name": "TAPENTADOL HYDROCHLORIDE",
+      "generic_name": "TAPENTADOL HYDROCHLORIDE",
+      "application_number": "ANDA220865",
+      "submission_type": "ORIG",
+      "submission_status": "AP",
+      "approval_date": "2026-09-03",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA220865"
+    },
+    {
+      "drug_name": "Unknown",
+      "generic_name": "Unknown",
+      "application_number": "ANDA211182",
+      "submission_type": "ORIG",
+      "submission_status": "AP",
+      "approval_date": "2026-09-08",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA211182"
     },
     {
       "drug_name": "FYARRO",
@@ -57,6 +219,24 @@
       "submission_status": "AP",
       "approval_date": "2026-09-02",
       "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA213312"
+    },
+    {
+      "drug_name": "Unknown",
+      "generic_name": "Unknown",
+      "application_number": "ANDA219913",
+      "submission_type": "ORIG",
+      "submission_status": "TA",
+      "approval_date": "2026-09-02",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA219913"
+    },
+    {
+      "drug_name": "AMELUZ",
+      "generic_name": "AMINOLEVULINIC ACID HYDROCHLORIDE",
+      "application_number": "NDA208081",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-09-09",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA208081"
     },
     {
       "drug_name": "AVTOZMA",
@@ -84,6 +264,15 @@
       "submission_status": "AP",
       "approval_date": "2026-09-02",
       "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA078734"
+    },
+    {
+      "drug_name": "HYRNUO",
+      "generic_name": "SEVABERTINIB",
+      "application_number": "NDA219972",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-09-09",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA219972"
     },
     {
       "drug_name": "LIDOCAINE HCL AND EPINEPHRINE",
@@ -160,20 +349,11 @@
     {
       "drug_name": "Unknown",
       "generic_name": "Unknown",
-      "application_number": "ANDA213267",
-      "submission_type": "SUPPL",
-      "submission_status": "AP",
-      "approval_date": "2026-09-02",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA213267"
-    },
-    {
-      "drug_name": "Unknown",
-      "generic_name": "Unknown",
-      "application_number": "ANDA213631",
+      "application_number": "ANDA220136",
       "submission_type": "ORIG",
       "submission_status": "AP",
-      "approval_date": "2026-09-02",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA213631"
+      "approval_date": "2026-09-08",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA220136"
     },
     {
       "drug_name": "KRAZATI",
@@ -185,6 +365,15 @@
       "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA216340"
     },
     {
+      "drug_name": "Unknown",
+      "generic_name": "Unknown",
+      "application_number": "ANDA219478",
+      "submission_type": "ORIG",
+      "submission_status": "AP",
+      "approval_date": "2026-09-03",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA219478"
+    },
+    {
       "drug_name": "ETOPOPHOS",
       "generic_name": "ETOPOSIDE PHOSPHATE",
       "application_number": "NDA020457",
@@ -192,15 +381,6 @@
       "submission_status": "AP",
       "approval_date": "2026-09-02",
       "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA020457"
-    },
-    {
-      "drug_name": "ULTRAMICROSIZE GRISEOFULVIN",
-      "generic_name": "ULTRAMICROSIZE GRISEOFULVIN",
-      "application_number": "ANDA061996",
-      "submission_type": "SUPPL",
-      "submission_status": "AP",
-      "approval_date": "2026-09-01",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA061996"
     },
     {
       "drug_name": "Unknown",
@@ -212,6 +392,24 @@
       "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA220210"
     },
     {
+      "drug_name": "ULTRAMICROSIZE GRISEOFULVIN",
+      "generic_name": "ULTRAMICROSIZE GRISEOFULVIN",
+      "application_number": "ANDA061996",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-09-01",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA061996"
+    },
+    {
+      "drug_name": "UPLIZNA",
+      "generic_name": "INEBILIZUMAB",
+      "application_number": "BLA761142",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-09-03",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=BLA761142"
+    },
+    {
       "drug_name": "CIBINQO",
       "generic_name": "ABROCITINIB",
       "application_number": "NDA213871",
@@ -219,42 +417,6 @@
       "submission_status": "AP",
       "approval_date": "2026-09-02",
       "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA213871"
-    },
-    {
-      "drug_name": "Unknown",
-      "generic_name": "Unknown",
-      "application_number": "ANDA217650",
-      "submission_type": "ORIG",
-      "submission_status": "TA",
-      "approval_date": "2026-09-01",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA217650"
-    },
-    {
-      "drug_name": "BYOOVIZ",
-      "generic_name": "RANIBIZUMAB-NUNA",
-      "application_number": "BLA761202",
-      "submission_type": "SUPPL",
-      "submission_status": "AP",
-      "approval_date": "2026-09-01",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=BLA761202"
-    },
-    {
-      "drug_name": "Unknown",
-      "generic_name": "Unknown",
-      "application_number": "ANDA214750",
-      "submission_type": "ORIG",
-      "submission_status": "TA",
-      "approval_date": "2026-09-02",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA214750"
-    },
-    {
-      "drug_name": "NELARABINE",
-      "generic_name": "NELARABINE",
-      "application_number": "ANDA216038",
-      "submission_type": "SUPPL",
-      "submission_status": "AP",
-      "approval_date": "2026-09-01",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA216038"
     }
   ]
 }
