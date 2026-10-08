@@ -1,18 +1,9 @@
 {
   "year": 2026,
   "month": 10,
-  "scrape_time": "2026-10-07T01:18:12.592668",
-  "total": 9,
+  "scrape_time": "2026-10-08T01:39:05.259986",
+  "total": 25,
   "results": [
-    {
-      "drug_name": "Unknown",
-      "generic_name": "Unknown",
-      "application_number": "NDA219617",
-      "submission_type": "ORIG",
-      "submission_status": "AP",
-      "approval_date": "2026-10-01",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA219617"
-    },
     {
       "drug_name": "CYPROHEPTADINE HYDROCHLORIDE",
       "generic_name": "CYPROHEPTADINE HYDROCHLORIDE",
@@ -21,6 +12,60 @@
       "submission_status": "AP",
       "approval_date": "2026-10-02",
       "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA212491"
+    },
+    {
+      "drug_name": "CARBAMAZEPINE",
+      "generic_name": "CARBAMAZEPINE",
+      "application_number": "ANDA212524",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-10-05",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA212524"
+    },
+    {
+      "drug_name": "Unknown",
+      "generic_name": "Unknown",
+      "application_number": "ANDA220492",
+      "submission_type": "ORIG",
+      "submission_status": "AP",
+      "approval_date": "2026-10-02",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA220492"
+    },
+    {
+      "drug_name": "PURIFIED CORTROPHIN GEL",
+      "generic_name": "REPOSITORY CORTICOTROPIN",
+      "application_number": "NDA008975",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-10-05",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA008975"
+    },
+    {
+      "drug_name": "Unknown",
+      "generic_name": "Unknown",
+      "application_number": "ANDA210818",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-10-01",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA210818"
+    },
+    {
+      "drug_name": "Unknown",
+      "generic_name": "Unknown",
+      "application_number": "ANDA210818",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-10-01",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA210818"
+    },
+    {
+      "drug_name": "CELECOXIB",
+      "generic_name": "CELECOXIB",
+      "application_number": "ANDA213301",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-10-02",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA213301"
     },
     {
       "drug_name": "CARBIDOPA AND LEVODOPA",
@@ -41,6 +86,15 @@
       "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA211860"
     },
     {
+      "drug_name": "Unknown",
+      "generic_name": "Unknown",
+      "application_number": "ANDA090363",
+      "submission_type": "ORIG",
+      "submission_status": "AP",
+      "approval_date": "2026-10-05",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA090363"
+    },
+    {
       "drug_name": "EXCEDRIN MIGRAINE GELTABS",
       "generic_name": "ACETAMINOPHEN, ASPRIN, CAFFEINE",
       "application_number": "NDA020802",
@@ -52,11 +106,47 @@
     {
       "drug_name": "Unknown",
       "generic_name": "Unknown",
+      "application_number": "ANDA213796",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-10-05",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA213796"
+    },
+    {
+      "drug_name": "Unknown",
+      "generic_name": "Unknown",
       "application_number": "ANDA219408",
       "submission_type": "ORIG",
       "submission_status": "TA",
       "approval_date": "2026-10-01",
       "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA219408"
+    },
+    {
+      "drug_name": "Unknown",
+      "generic_name": "Unknown",
+      "application_number": "ANDA091433",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-10-02",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA091433"
+    },
+    {
+      "drug_name": "OLANZAPINE",
+      "generic_name": "OLANZAPINE",
+      "application_number": "ANDA201588",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-10-01",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA201588"
+    },
+    {
+      "drug_name": "OLANZAPINE",
+      "generic_name": "OLANZAPINE",
+      "application_number": "ANDA201588",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-10-01",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA201588"
     },
     {
       "drug_name": "ROZLYTREK",
@@ -84,6 +174,60 @@
       "submission_status": "AP",
       "approval_date": "2026-10-01",
       "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA218550"
+    },
+    {
+      "drug_name": "Unknown",
+      "generic_name": "Unknown",
+      "application_number": "ANDA213159",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-10-05",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA213159"
+    },
+    {
+      "drug_name": "ACTHAR",
+      "generic_name": "REPOSITORY CORTICOTROPIN",
+      "application_number": "NDA008372",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-10-05",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA008372"
+    },
+    {
+      "drug_name": "Unknown",
+      "generic_name": "Unknown",
+      "application_number": "NDA009854",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-10-05",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA009854"
+    },
+    {
+      "drug_name": "Unknown",
+      "generic_name": "Unknown",
+      "application_number": "NDA219617",
+      "submission_type": "ORIG",
+      "submission_status": "AP",
+      "approval_date": "2026-10-01",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA219617"
+    },
+    {
+      "drug_name": "JAYPIRCA",
+      "generic_name": "PIRTOBRUTINIB",
+      "application_number": "NDA216059",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-10-02",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA216059"
+    },
+    {
+      "drug_name": "Unknown",
+      "generic_name": "Unknown",
+      "application_number": "ANDA206840",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-10-02",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA206840"
     }
   ]
 }
