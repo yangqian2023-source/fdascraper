@@ -1,90 +1,9 @@
 {
   "year": 2026,
   "month": 10,
-  "scrape_time": "2026-10-08T01:39:05.259986",
+  "scrape_time": "2026-10-09T01:52:20.696691",
   "total": 25,
   "results": [
-    {
-      "drug_name": "CYPROHEPTADINE HYDROCHLORIDE",
-      "generic_name": "CYPROHEPTADINE HYDROCHLORIDE",
-      "application_number": "ANDA212491",
-      "submission_type": "SUPPL",
-      "submission_status": "AP",
-      "approval_date": "2026-10-02",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA212491"
-    },
-    {
-      "drug_name": "CARBAMAZEPINE",
-      "generic_name": "CARBAMAZEPINE",
-      "application_number": "ANDA212524",
-      "submission_type": "SUPPL",
-      "submission_status": "AP",
-      "approval_date": "2026-10-05",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA212524"
-    },
-    {
-      "drug_name": "Unknown",
-      "generic_name": "Unknown",
-      "application_number": "ANDA220492",
-      "submission_type": "ORIG",
-      "submission_status": "AP",
-      "approval_date": "2026-10-02",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA220492"
-    },
-    {
-      "drug_name": "PURIFIED CORTROPHIN GEL",
-      "generic_name": "REPOSITORY CORTICOTROPIN",
-      "application_number": "NDA008975",
-      "submission_type": "SUPPL",
-      "submission_status": "AP",
-      "approval_date": "2026-10-05",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA008975"
-    },
-    {
-      "drug_name": "Unknown",
-      "generic_name": "Unknown",
-      "application_number": "ANDA210818",
-      "submission_type": "SUPPL",
-      "submission_status": "AP",
-      "approval_date": "2026-10-01",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA210818"
-    },
-    {
-      "drug_name": "Unknown",
-      "generic_name": "Unknown",
-      "application_number": "ANDA210818",
-      "submission_type": "SUPPL",
-      "submission_status": "AP",
-      "approval_date": "2026-10-01",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA210818"
-    },
-    {
-      "drug_name": "CELECOXIB",
-      "generic_name": "CELECOXIB",
-      "application_number": "ANDA213301",
-      "submission_type": "SUPPL",
-      "submission_status": "AP",
-      "approval_date": "2026-10-02",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA213301"
-    },
-    {
-      "drug_name": "CARBIDOPA AND LEVODOPA",
-      "generic_name": "CARBIDOPA AND LEVODOPA",
-      "application_number": "ANDA214091",
-      "submission_type": "SUPPL",
-      "submission_status": "AP",
-      "approval_date": "2026-10-01",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA214091"
-    },
-    {
-      "drug_name": "FOSAPREPITANT",
-      "generic_name": "FOSAPREPITANT DIMEGLUMINE",
-      "application_number": "ANDA211860",
-      "submission_type": "SUPPL",
-      "submission_status": "AP",
-      "approval_date": "2026-10-02",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA211860"
-    },
     {
       "drug_name": "Unknown",
       "generic_name": "Unknown",
@@ -228,6 +147,87 @@
       "submission_status": "AP",
       "approval_date": "2026-10-02",
       "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA206840"
+    },
+    {
+      "drug_name": "CYPROHEPTADINE HYDROCHLORIDE",
+      "generic_name": "CYPROHEPTADINE HYDROCHLORIDE",
+      "application_number": "ANDA212491",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-10-02",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA212491"
+    },
+    {
+      "drug_name": "CARBAMAZEPINE",
+      "generic_name": "CARBAMAZEPINE",
+      "application_number": "ANDA212524",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-10-05",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA212524"
+    },
+    {
+      "drug_name": "Unknown",
+      "generic_name": "Unknown",
+      "application_number": "ANDA220492",
+      "submission_type": "ORIG",
+      "submission_status": "AP",
+      "approval_date": "2026-10-02",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA220492"
+    },
+    {
+      "drug_name": "Unknown",
+      "generic_name": "Unknown",
+      "application_number": "NDA008975",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-10-05",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA008975"
+    },
+    {
+      "drug_name": "Unknown",
+      "generic_name": "Unknown",
+      "application_number": "ANDA210818",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-10-01",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA210818"
+    },
+    {
+      "drug_name": "Unknown",
+      "generic_name": "Unknown",
+      "application_number": "ANDA210818",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-10-01",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA210818"
+    },
+    {
+      "drug_name": "CELECOXIB",
+      "generic_name": "CELECOXIB",
+      "application_number": "ANDA213301",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-10-02",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA213301"
+    },
+    {
+      "drug_name": "CARBIDOPA AND LEVODOPA",
+      "generic_name": "CARBIDOPA AND LEVODOPA",
+      "application_number": "ANDA214091",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-10-01",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA214091"
+    },
+    {
+      "drug_name": "FOSAPREPITANT",
+      "generic_name": "FOSAPREPITANT DIMEGLUMINE",
+      "application_number": "ANDA211860",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-10-02",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA211860"
     }
   ]
 }

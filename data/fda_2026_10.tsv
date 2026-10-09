@@ -1,13 +1,4 @@
 药品名称	通用名	申请号	提交类型	状态	审批日期	链接
-CYPROHEPTADINE HYDROCHLORIDE	CYPROHEPTADINE HYDROCHLORIDE	ANDA212491	SUPPL	AP	2026-10-02	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA212491
-CARBAMAZEPINE	CARBAMAZEPINE	ANDA212524	SUPPL	AP	2026-10-05	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA212524
-Unknown	Unknown	ANDA220492	ORIG	AP	2026-10-02	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA220492
-PURIFIED CORTROPHIN GEL	REPOSITORY CORTICOTROPIN	NDA008975	SUPPL	AP	2026-10-05	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA008975
-Unknown	Unknown	ANDA210818	SUPPL	AP	2026-10-01	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA210818
-Unknown	Unknown	ANDA210818	SUPPL	AP	2026-10-01	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA210818
-CELECOXIB	CELECOXIB	ANDA213301	SUPPL	AP	2026-10-02	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA213301
-CARBIDOPA AND LEVODOPA	CARBIDOPA AND LEVODOPA	ANDA214091	SUPPL	AP	2026-10-01	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA214091
-FOSAPREPITANT	FOSAPREPITANT DIMEGLUMINE	ANDA211860	SUPPL	AP	2026-10-02	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA211860
 Unknown	Unknown	ANDA090363	ORIG	AP	2026-10-05	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA090363
 EXCEDRIN MIGRAINE GELTABS	ACETAMINOPHEN, ASPRIN, CAFFEINE	NDA020802	SUPPL	AP	2026-10-02	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA020802
 Unknown	Unknown	ANDA213796	SUPPL	AP	2026-10-05	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA213796
@@ -24,3 +15,12 @@ Unknown	Unknown	NDA009854	SUPPL	AP	2026-10-05	https://www.accessdata.fda.gov/scr
 Unknown	Unknown	NDA219617	ORIG	AP	2026-10-01	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA219617
 JAYPIRCA	PIRTOBRUTINIB	NDA216059	SUPPL	AP	2026-10-02	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA216059
 Unknown	Unknown	ANDA206840	SUPPL	AP	2026-10-02	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA206840
+CYPROHEPTADINE HYDROCHLORIDE	CYPROHEPTADINE HYDROCHLORIDE	ANDA212491	SUPPL	AP	2026-10-02	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA212491
+CARBAMAZEPINE	CARBAMAZEPINE	ANDA212524	SUPPL	AP	2026-10-05	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA212524
+Unknown	Unknown	ANDA220492	ORIG	AP	2026-10-02	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA220492
+Unknown	Unknown	NDA008975	SUPPL	AP	2026-10-05	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=NDA008975
+Unknown	Unknown	ANDA210818	SUPPL	AP	2026-10-01	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA210818
+Unknown	Unknown	ANDA210818	SUPPL	AP	2026-10-01	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA210818
+CELECOXIB	CELECOXIB	ANDA213301	SUPPL	AP	2026-10-02	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA213301
+CARBIDOPA AND LEVODOPA	CARBIDOPA AND LEVODOPA	ANDA214091	SUPPL	AP	2026-10-01	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA214091
+FOSAPREPITANT	FOSAPREPITANT DIMEGLUMINE	ANDA211860	SUPPL	AP	2026-10-02	https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA211860
