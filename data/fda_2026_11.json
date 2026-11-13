@@ -1,9 +1,18 @@
 {
   "year": 2026,
   "month": 11,
-  "scrape_time": "2026-11-12T02:46:02.089542",
+  "scrape_time": "2026-11-13T02:28:55.138438",
   "total": 35,
   "results": [
+    {
+      "drug_name": "RELEUKO",
+      "generic_name": "FILGRASTIM",
+      "application_number": "BLA761082",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-11-04",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=BLA761082"
+    },
     {
       "drug_name": "Unknown",
       "generic_name": "Unknown",
@@ -50,15 +59,6 @@
       "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA203320"
     },
     {
-      "drug_name": "RELEUKO",
-      "generic_name": "FILGRASTIM",
-      "application_number": "BLA761082",
-      "submission_type": "SUPPL",
-      "submission_status": "AP",
-      "approval_date": "2026-11-04",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=BLA761082"
-    },
-    {
       "drug_name": "ROSUVASTATIN",
       "generic_name": "ROSUVASTATIN",
       "application_number": "ANDA206434",
@@ -68,8 +68,8 @@
       "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA206434"
     },
     {
-      "drug_name": "Unknown",
-      "generic_name": "Unknown",
+      "drug_name": "HYDROXYUREA",
+      "generic_name": "HYDROXYUREA",
       "application_number": "ANDA220300",
       "submission_type": "ORIG",
       "submission_status": "AP",
@@ -122,15 +122,6 @@
       "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA203442"
     },
     {
-      "drug_name": "ZYNLONTA",
-      "generic_name": "LONCASTUXIMAB TESIRINE",
-      "application_number": "BLA761196",
-      "submission_type": "SUPPL",
-      "submission_status": "AP",
-      "approval_date": "2026-11-04",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=BLA761196"
-    },
-    {
       "drug_name": "IRBESARTAN",
       "generic_name": "IRBESARTAN",
       "application_number": "ANDA203071",
@@ -138,6 +129,15 @@
       "submission_status": "AP",
       "approval_date": "2026-11-04",
       "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA203071"
+    },
+    {
+      "drug_name": "ZYNLONTA",
+      "generic_name": "LONCASTUXIMAB TESIRINE",
+      "application_number": "BLA761196",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-11-04",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=BLA761196"
     },
     {
       "drug_name": "MUCUS RELIEF EXTENDED RELEASE",
@@ -187,20 +187,20 @@
     {
       "drug_name": "Unknown",
       "generic_name": "Unknown",
-      "application_number": "ANDA209917",
-      "submission_type": "ORIG",
-      "submission_status": "AP",
-      "approval_date": "2026-11-03",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA209917"
-    },
-    {
-      "drug_name": "Unknown",
-      "generic_name": "Unknown",
       "application_number": "ANDA208522",
       "submission_type": "ORIG",
       "submission_status": "AP",
       "approval_date": "2026-11-02",
       "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA208522"
+    },
+    {
+      "drug_name": "Unknown",
+      "generic_name": "Unknown",
+      "application_number": "ANDA209917",
+      "submission_type": "ORIG",
+      "submission_status": "AP",
+      "approval_date": "2026-11-03",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA209917"
     },
     {
       "drug_name": "BISOPROLOL FUMARATE AND HYDROCHLOROTHIAZIDE",
@@ -293,6 +293,15 @@
       "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=ANDA201619"
     },
     {
+      "drug_name": "AMJEVITA",
+      "generic_name": "ADALIMUMAB-ATTO",
+      "application_number": "BLA761024",
+      "submission_type": "SUPPL",
+      "submission_status": "AP",
+      "approval_date": "2026-11-05",
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=BLA761024"
+    },
+    {
       "drug_name": "MITIGO",
       "generic_name": "MORPHINE SULFATE",
       "application_number": "ANDA204393",
@@ -309,15 +318,6 @@
       "submission_status": "AP",
       "approval_date": "2026-11-03",
       "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=BLA761398"
-    },
-    {
-      "drug_name": "AMJEVITA",
-      "generic_name": "ADALIMUMAB-ATTO",
-      "application_number": "BLA761024",
-      "submission_type": "SUPPL",
-      "submission_status": "AP",
-      "approval_date": "2026-11-05",
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=DrugDetails.process&drugSeq=BLA761024"
     }
   ]
 }
